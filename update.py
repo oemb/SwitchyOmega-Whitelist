@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 '''
-@作者: 风沐白
-@文件: update.py
-@描述: 从网络来源更新白名单规则
+@作者Author: 风沐白
+@文件File: update.py
+@描述 Desc: Update Whitelist from Internet 从网络来源更新白名单规则
 '''
 
 import requests
@@ -10,7 +10,7 @@ import re
 import os
 import time
 
-# 默认来源 git@github.com:felixonmars/dnsmasq-china-list.git, 可能需要代理
+# 默认来源 git@github.com:felixonmars/dnsmasq-china-list.git, 可能需要代理Proxy
 confurl = 'https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf'
 
 if __name__ == "__main__":
@@ -21,11 +21,11 @@ if __name__ == "__main__":
     headline = ['[SwitchyOmega Conditions]\n',
                 '; Require: SwitchyOmega >= 2.3.2\n',
                 '; Update @ {}\n'.format(up_time),
-                '\n',
-                '; cn域名都不走代理\n',
+                '; 直鏈URL: https://raw.githubusercontent.com/eslion/SwitchyOmega-Whitelist/master/white-list.sorl\n',
+                '; .cn域名直連\n',
                 '*.cn\n',
                 '\n',
-                '; 局域网IP不走代理\n',
+                '; 局域网IP直連\n',
                 '10.*.*.*\n',
                 '172.16.*.*\n',
                 '172.17.*.*\n',
