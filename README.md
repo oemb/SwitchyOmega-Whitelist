@@ -5,7 +5,7 @@
 1. 在 Chrome/Edge 中安装 [SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif) 插件；
 2. 在插件的设置中，点击「新增情景模式」-「代理服务器」，名字自己设置；
 3. 点击「新增情景模式」-「自动切换」，名字自己设置；
-4. 规则列表设置为直连；
+4. 规则列表设置为直连DIRECT；
 5. 默认情景模式设置为刚才设置的代理服务器；
 6. 点击「添加规则列表」，在规则列表网址，输入
     ```
@@ -26,9 +26,9 @@
 
 
 ## 使用建议
-1. [黑名单](https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt) 适用于经常访问国内网的同学，白名单适用于经常访问国外网的同学；
-2. 建议 `google.cn` 强制走代理。
-3. 建议将以下地址加入【步骤2】中的“不代理的地址列表”：
+1. [黑名单](https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt) 适用于经常访问大陸局域网的同学，白名单适用于经常访问公网的同学；
+2. 建议 `google.cn` 默認走代理。
+3. 建议将以下地址加入【步骤2】中的“直連地址列表”：
     ```
     <local>  
     fc00::/7  
