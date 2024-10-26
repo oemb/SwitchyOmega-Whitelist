@@ -1,11 +1,11 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update @ Sat Oct 26 19:55:01 2024
-
-; cn域名都不走代理
+; Update @ Sat Oct 26 20:03:57 2024
+; 直鏈URL: https://raw.githubusercontent.com/eslion/SwitchyOmega-Whitelist/master/white-list.sorl
+; .cn域名直連
 *.cn
 
-; 局域网IP不走代理
+; 局域网IP直連
 10.*.*.*
 172.16.*.*
 172.17.*.*
