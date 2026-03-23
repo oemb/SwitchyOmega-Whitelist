@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update @ Sat Mar 21 10:39:57 2026
+; Update @ Mon Mar 23 11:04:32 2026
 ; 直鏈URL: https://raw.githubusercontent.com/eslion/SwitchyOmega-Whitelist/master/white-list.sorl
 ; .cn域名直連
 *.cn
