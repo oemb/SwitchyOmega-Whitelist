@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Update @ Fri May  1 11:17:52 2026
+; Update @ Sun May  3 11:02:34 2026
 ; 直鏈URL: https://raw.githubusercontent.com/eslion/SwitchyOmega-Whitelist/master/white-list.sorl
 ; .cn域名直連
 *.cn
@@ -380,7 +380,6 @@
 *.024eps.com
 *.024f9wrcm.xin
 *.024frde.com
-*.024fuchan.com
 *.024fuwu.com
 *.024heyi.com
 *.024hh.com
@@ -643,7 +642,7 @@
 *.05236.com
 *.052360.com
 *.0523bbs.net
-*.0523tx.net
+*.0523qyfw.com
 *.0523zp.com
 *.0523zz.com
 *.0527.xin
@@ -655,7 +654,6 @@
 *.052yx.com
 *.0531.com
 *.053135.com
-*.0531kt.com
 *.0531soso.com
 *.0531wt.com
 *.0532.com
@@ -792,7 +790,6 @@
 *.0616a9dbe68fac9c.com
 *.0618.com
 *.0618.xin
-*.06192.com
 *.062wfly8z.xin
 *.0631.xin
 *.063108.com
@@ -965,7 +962,6 @@
 *.0772fang.com
 *.0772gcw.com
 *.0772job.com
-*.0772lou.com
 *.07743988888.com
 *.07752267777.com
 *.07754255555.com
@@ -976,7 +972,6 @@
 *.0776.cool
 *.07761.com
 *.0776hr.com
-*.0779-2678999.com
 *.078.xin
 *.078079.com
 *.07890.com
@@ -1382,7 +1377,6 @@
 *.10000link.com
 *.10000post.com
 *.10000shequ.com
-*.10000tc.com
 *.10000yao.com
 *.10001wan.com
 *.100024.xyz
@@ -1487,7 +1481,6 @@
 *.100t.com
 *.100tal.com
 *.100te.com
-*.100tiao1.net
 *.100tmt.com
 *.100tone.com
 *.100top1.com
@@ -1636,7 +1629,6 @@
 *.11343.com
 *.113989.com
 *.113dh.com
-*.113ya.com
 *.114-91.com
 *.1145858.com
 *.11467.com
@@ -1838,6 +1830,7 @@
 *.1233dns.com
 *.1234.me
 *.12341288.com
+*.12345.icu
 *.1234567.com
 *.123456edu.com
 *.123456wz.com
@@ -1931,7 +1924,6 @@
 *.125cn.net
 *.125edu.com
 *.125job.com
-*.125p.com
 *.125school.com
 *.125visa.com
 *.125y.com
@@ -1946,7 +1938,6 @@
 *.126qiye.com
 *.127.com
 *.127.net
-*.1278721.com
 *.127xx.com
 *.127z.com
 *.128456.com
@@ -2025,7 +2016,6 @@
 *.13667703999.com
 *.136bet.app
 *.136fc.com
-*.136hr.com
 *.136pic.com
 *.13707.net
 *.137139.com
@@ -2131,7 +2121,6 @@
 *.15311223344.com
 *.153332.xyz
 *.15426.org
-*.15440.org
 *.1545ts.com
 *.155.com
 *.155155155.xyz
@@ -2139,7 +2128,6 @@
 *.1559.com
 *.155idc.com
 *.156186.com
-*.156669.com
 *.156pay.com
 *.157110.com
 *.1573.xn--vhquv
@@ -2267,7 +2255,6 @@
 *.1686888.com
 *.1688.com
 *.1688.xn--5tzm5g
-*.1688.xn--czrs0t
 *.1688.xn--unup4y
 *.1688.xn--vhquv
 *.16885.com
@@ -2383,7 +2370,6 @@
 *.17345.com
 *.17350.com
 *.17351.com
-*.17365h5.com
 *.1739705934745550.com
 *.173cs.com
 *.173eg.com
@@ -2413,7 +2399,6 @@
 *.17566.com
 *.1758.com
 *.175aa.com
-*.175bar.com
 *.175cinemas.com
 *.175club.com
 *.175game.com
@@ -2683,7 +2668,6 @@
 *.185185.com
 *.1857qc.net
 *.185c72b7d750569a.com
-*.1860sf.com
 *.18665348887.com
 *.186688.com
 *.18713d3521023.beer
@@ -2995,7 +2979,6 @@
 *.1qirun.com
 *.1qishu.com
 *.1qit.com
-*.1qsf.com
 *.1qwe3r.com
 *.1r1g.com
 *.1renshi.com
@@ -3297,7 +3280,6 @@
 *.222.com
 *.222.xn--vhquv
 *.22221111.com
-*.222579.com
 *.222bz.com
 *.222i.net
 *.222pcb.com
@@ -4086,7 +4068,6 @@
 *.336woool.com
 *.337000.com
 *.3377751e.app
-*.3377999c.app
 *.337y.com
 *.3387.com
 *.338888.net
@@ -4101,7 +4082,6 @@
 *.33fang.com
 *.33ip.com
 *.33iq.com
-*.33jianzhi.com
 *.33ly.com
 *.33map.com
 *.33map.net
@@ -4113,7 +4093,6 @@
 *.33trip.com
 *.33yq.com
 *.34.com
-*.340888.com
 *.3419e2cbf10261.beer
 *.341d88b04156e9d3.com
 *.342200.com
@@ -4343,7 +4322,6 @@
 *.360wzb.com
 *.360wzws.com
 *.360xh.com
-*.360xiaos.com
 *.360xiehui.com
 *.360xinyongka.com
 *.360xkw.com
@@ -4973,7 +4951,6 @@
 *.400.com
 *.40000-30000.com
 *.4000011520.com
-*.4000022282.com
 *.4000034168.com
 *.4000066666.com
 *.4000156651.com
@@ -5189,7 +5166,6 @@
 *.4451199.com
 *.4451818.com
 *.44552003.com
-*.44629.com
 *.446dca1e17538cf6.com
 *.44719.org
 *.44749.net
@@ -5247,7 +5223,6 @@
 *.46245fb7d43c13a3.com
 *.46412.com
 *.4644440.vip
-*.46576.org
 *.46644.com
 *.46721.org
 *.46771313.com
@@ -5379,7 +5354,6 @@
 *.4ee.ee
 *.4ef06207210281.beer
 *.4ef870db01022.beer
-*.4eglwkq.com
 *.4everdns.com
 *.4ewriting.com
 *.4f0b987b410311.beer
@@ -5816,7 +5790,6 @@
 *.51hei.com
 *.51hejia.com
 *.51hgtg.com
-*.51hhjy.com
 *.51hicard.com
 *.51hika.com
 *.51hjk.com
@@ -5984,7 +5957,6 @@
 *.51rc.com
 *.51read.site
 *.51recovery.com
-*.51relaw.com
 *.51rencai.com
 *.51render.com
 *.51renpin.com
@@ -6281,7 +6253,6 @@
 *.526266.com
 *.526537.xyz
 *.52676.com
-*.5269120.com
 *.526net.com
 *.527100.com
 *.52733999.com
@@ -6394,7 +6365,6 @@
 *.52js8.com
 *.52jscn.com
 *.52jubensha.com
-*.52juqingba.com
 *.52jxrc.com
 *.52jxt.com
 *.52kan.vip
@@ -6925,7 +6895,6 @@
 *.58ganji.com
 *.58ghost.com
 *.58hua.com
-*.58ib.com
 *.58iclick.com
 *.58insure.com
 *.58iwan.com
@@ -7309,7 +7278,6 @@
 *.6.xn--czrs0t
 *.6.xn--fjq720a
 *.6.xn--unup4y
-*.60.net
 *.600064.com
 *.600083.com
 *.6000feet.com
@@ -7322,13 +7290,11 @@
 *.600282.net
 *.600496.com
 *.600576.com
-*.6006.xin
 *.600689.com
 *.600711.com
 *.600822sh.com
 *.600895.com
 *.600df970611031.beer
-*.600yj.com
 *.601book.com
 *.602.com
 *.602ab6ff810251.beer
@@ -7840,7 +7806,6 @@
 *.6b3cfa277bae3b4b.com
 *.6b786q3e.work
 *.6bac9d15d10271.beer
-*.6bbk.com
 *.6bdns.com
 *.6c0f63385ed13b89.com
 *.6c6c.com
@@ -7895,7 +7860,6 @@
 *.6jyi7mzae.com
 *.6jz.com
 *.6k11.com
-*.6k6g.com
 *.6k9k.com
 *.6ke.com
 *.6kw.com
@@ -7977,7 +7941,6 @@
 *.700mh.com
 *.701.com
 *.703804.com
-*.70392.com
 *.70392.org
 *.70524.com
 *.706net.com
@@ -8206,7 +8169,6 @@
 *.7676.com
 *.767qkdj34u.com
 *.767stock.com
-*.76802.net
 *.76831.org
 *.76868.com
 *.7688.net
@@ -8214,7 +8176,6 @@
 *.76963.com
 *.769car.com
 *.76ab.com
-*.76baobao.com
 *.76bb.com
 *.76c9c1aa27766f1d.com
 *.76dongdong.com
@@ -8515,7 +8476,6 @@
 *.7ronggame.com
 *.7runto.com
 *.7sef.com
-*.7sfashion.com
 *.7sodu.net
 *.7souti.com
 *.7sown.com
@@ -8635,7 +8595,6 @@
 *.809090.xyz
 *.8090app.com
 *.8090cdn.com
-*.8090mt.com
 *.8090yx.com
 *.8090yxs.com
 *.80982.org
@@ -9034,7 +8993,6 @@
 *.888484.xyz
 *.888608.xyz
 *.8886664ad2.shop
-*.88880809.com
 *.88887777.com
 *.8888800000.com
 *.8889997777.com
@@ -9188,7 +9146,6 @@
 *.8jdns.net
 *.8jie8.com
 *.8jxn.com
-*.8jzw.cc
 *.8k69vb6421.com
 *.8k7k.com
 *.8kana.com
@@ -9315,7 +9272,6 @@
 *.912366.com
 *.9125flying.com
 *.912688.com
-*.912hf.com
 *.912k.com
 *.912yx.com
 *.91300.com
@@ -9347,7 +9303,6 @@
 *.9188.com
 *.9188.work
 *.918canyin.com
-*.918fg.com
 *.918ka.cc
 *.918rc.com
 *.919.com
@@ -9964,7 +9919,6 @@
 *.987.com
 *.9873.com
 *.9876game.com
-*.9877.com
 *.987app.com
 *.987dns.com
 *.987you.com
@@ -9996,7 +9950,6 @@
 *.98e774f505d78b1a.com
 *.98ep.com
 *.98eye.com
-*.98k4.com
 *.98lm.com
 *.98mc.cc
 *.98mp.com
@@ -10096,7 +10049,6 @@
 *.99bill.com
 *.99bo.cc
 *.99box.com
-*.99brand.com
 *.99bs.club
 *.99caiba.com
 *.99cc.com
@@ -10131,10 +10083,8 @@
 *.99jianzhu.com
 *.99jiasu.com
 *.99jiasu.net
-*.99jrk.com
 *.99kf.com
 *.99kt.com
-*.99ku.cc
 *.99ku.vip
 *.99kypay.com
 *.99leidun.com
@@ -10266,7 +10216,6 @@
 *.9ihb.com
 *.9ihome.com
 *.9ijf.com
-*.9ilrc.com
 *.9ilu.com
 *.9imobi.com
 *.9inx.com
@@ -10589,7 +10538,6 @@
 *.abe-sz.com
 *.abe-tech.com
 *.abeacon.com
-*.abedu.net
 *.abef6142010291.beer
 *.abesmoke.com
 *.abhouses.com
@@ -10653,6 +10601,7 @@
 *.academygkusa.com
 *.academypublication.com
 *.acb365.com
+*.acbbb.com
 *.acbiot.com
 *.acc3.net
 *.acc5.com
@@ -10980,7 +10929,6 @@
 *.adubest.com
 *.aduer.com
 *.adukwai.com
-*.adult-stem-cells.com
 *.adunicorn.com
 *.adunimax.com
 *.adunioncode.com
@@ -11082,6 +11030,7 @@
 *.aerochina.net
 *.aerocityholding.com
 *.aerofugia.com
+*.aeroht.com
 *.aeroscope.djiservice.org
 *.aes-beijing.org
 *.aesimka.com
@@ -11328,7 +11277,6 @@
 *.ahnxs.com
 *.ahohai.com
 *.ahome365.com
-*.ahomezc.com
 *.ahougn.com
 *.ahpdkj.com
 *.ahphi.com
@@ -11436,7 +11384,6 @@
 *.ai012.com
 *.ai0513.com
 *.ai257.com
-*.ai572.com
 *.ai7.com
 *.ai7.org
 *.aiacfo.org
@@ -11738,6 +11685,7 @@
 *.aimoon.com
 *.aimsen.com
 *.aimu-app.com
+*.aimx333.com
 *.ainas.cc
 *.ainb01010zh.com
 *.ainb12251zh.com
@@ -11773,7 +11721,6 @@
 *.aipiaxi.com
 *.aipingxiang.com
 *.aipintuan.com
-*.aipiwu.com
 *.aippt.com
 *.aiprose.com
 *.aipu-waton.com
@@ -12167,7 +12114,6 @@
 *.algkfd.com
 *.algogear.com
 *.algorithmart.com
-*.alh6.com
 *.alhug.com
 *.alhywj.com
 *.ali-api-test.net
@@ -12719,7 +12665,6 @@
 *.ananlighting.com
 *.ananpet.com
 *.anao.vip
-*.anatuprak.com
 *.anav.com
 *.anbang-life.com
 *.anbanggroup.com
@@ -12906,6 +12851,7 @@
 *.anlusy.com
 *.anmco8.com
 *.anmeisheng.com
+*.anmit.com
 *.anmo.com
 *.anmobc.com
 *.anmpserver.com
@@ -12930,7 +12876,6 @@
 *.anpsk.org
 *.anpuzx.com
 *.anqingonline.com
-*.anqingwt.com
 *.anqingzhiyun.com
 *.anqn.com
 *.anqu.com
@@ -13161,7 +13106,6 @@
 *.aohaosiyq.com
 *.aohuasports.com
 *.aohuatextiles.com
-*.aojauto.com
 *.aojiahuashare.com
 *.aojian.net
 *.aojian2.net
@@ -13312,7 +13256,6 @@
 *.apifoxmock.com
 *.apigateway.info
 *.apigwtencent.com
-*.apilyzy.com
 *.apim.work
 *.apipost.net
 *.apira.org
@@ -13331,7 +13274,6 @@
 *.apjingsi.com
 *.apk02061oo.xyz
 *.apk3.com
-*.apk4399.com
 *.apk8.com
 *.apkbus.com
 *.apkdv.com
@@ -13486,7 +13428,6 @@
 *.appzhonghua.com
 *.aprche.net
 *.apriltq.com
-*.aprunchuang.com
 *.apsdai.com
 *.apsfon.com
 *.apsgo.com
@@ -13606,6 +13547,7 @@
 *.argylehotels.com
 *.arhoo.com
 *.ariacraft.net
+*.aridge.com
 *.arielcosmetic.com
 *.arin-elec.com
 *.arinchina.com
@@ -13740,7 +13682,6 @@
 *.aschina.org
 *.aschip.com
 *.aschtj.com
-*.asciima.com
 *.asczwa.com
 *.asczxcefsv.com
 *.asd.red
@@ -13808,7 +13749,6 @@
 *.asit.cc
 *.asjnu.com
 *.ask.amd.com
-*.askbrisk.com
 *.askci.com
 *.askdd.org
 *.askdiandian.com
@@ -14706,7 +14646,6 @@
 *.bagsnet.com
 *.bagstory.net
 *.bagtree.com
-*.baguichong.com
 *.baguilingyun.com
 *.bagxs.com
 *.bahealpharma.com
@@ -14936,7 +14875,6 @@
 *.baiqiso.com
 *.baiqiyaoye.com
 *.baiquefahuasi.com
-*.bairenzbg.org
 *.bairoe.com
 *.baironginc.com
 *.bairuitech.com
@@ -14982,7 +14920,6 @@
 *.baitahe.net
 *.baitaihuge.com
 *.baitanheichang.com
-*.baitaoidc.com
 *.baitdu.com
 *.baite666.com
 *.baithu.com
@@ -15520,6 +15457,7 @@
 *.bazi.xin
 *.bazi5.com
 *.baziguwen.com
+*.bazixinli.com
 *.bazizeri.com
 *.bb-game.com
 *.bb-hy.com
@@ -15566,7 +15504,6 @@
 *.bbk.com
 *.bbk000.com
 *.bbkantu.com
-*.bbkys.com
 *.bblcdn.com
 *.bblops.com
 *.bbmuwwxyk.com
@@ -15575,7 +15512,6 @@
 *.bbonfire.com
 *.bbosu.com
 *.bbphonix.xyz
-*.bbpph.com
 *.bbpu.com
 *.bbqcdn.com
 *.bbqe.com
@@ -15792,7 +15728,6 @@
 *.bdstatic.com
 *.bdsytime.com
 *.bdszh.vip
-*.bdtianchang.com
 *.bdtic.com
 *.bdtjrcv.com
 *.bdtm.net
@@ -16141,7 +16076,6 @@
 *.benzhb.com
 *.benzhiwangluo.com
 *.benztto.com
-*.beodesj.com
 *.beony.com
 *.beook.com
 *.bepal.pro
@@ -16223,7 +16157,6 @@
 *.bestjy.net
 *.bestkids.net
 *.bestlec.com
-*.bestlee.net
 *.bestlosslessmusic.com
 *.bestmate.net
 *.bestmoban.com
@@ -16529,7 +16462,6 @@
 *.bianquchina.com
 *.bianquzyk.com
 *.biantaishuo.com
-*.biantongzixun.com
 *.bianwa.com
 *.bianwanjia.com
 *.bianxian.com
@@ -16669,7 +16601,6 @@
 *.bigo.sg
 *.bigo.tv
 *.bigogm.com
-*.bigoledog.com
 *.bigolive.tv
 *.bigops.com
 *.bigplayers.com
@@ -16708,11 +16639,9 @@
 *.bijiasso.com
 *.bijiatu.com
 *.bijienetworks.com
-*.bijingdi.com
 *.bijirim.com
 *.bijixia.net
 *.bijsc.com
-*.bikecool.com
 *.bikehome.cc
 *.bikehome.net
 *.biketo.com
@@ -17473,7 +17402,6 @@
 *.bjrc.com
 *.bjrcb.com
 *.bjrdhx.com
-*.bjretech.com
 *.bjreview.com
 *.bjrjgj.com
 *.bjrjtdkj.com
@@ -18196,7 +18124,6 @@
 *.boohee.com
 *.book118.com
 *.book1993.com
-*.bookabc.net
 *.bookapka.com
 *.bookask.com
 *.bookdao.com
@@ -18396,7 +18323,6 @@
 *.bpaykwai.com
 *.bpec.com
 *.bpgjuice.net
-*.bpimg.com
 *.bpmlt.com
 *.bpmuseum.com
 *.bppan.com
@@ -18584,7 +18510,6 @@
 *.bspapp.com
 *.bsping.com
 *.bsquant.com
-*.bsrczpw.com
 *.bsrkt.com
 *.bsrmyy.com
 *.bsrse.com
@@ -19144,7 +19069,6 @@
 *.byzkj.com
 *.byzoro.com
 *.byzp.com
-*.byzsyy.com
 *.byzt.net
 *.byzxy.com
 *.bz-e.com
@@ -19467,7 +19391,6 @@
 *.caifengprinting.com
 *.caifu.com
 *.caifu500.net
-*.caifupai.com
 *.caifuxingketang.com
 *.caifuxingmingxue.com
 *.caifuzhongwen.com
@@ -19662,6 +19585,7 @@
 *.candiabiotech.com
 *.candou.com
 *.candybook.com
+*.candycake.cloud
 *.candyhaw.com
 *.candypay.com
 *.candystars.net
@@ -19880,7 +19804,6 @@
 *.casctcp.com
 *.casdoor.com
 *.casdoor.org
-*.case-platformhealth.com
 *.case91.com
 *.casear.net
 *.casece.org
@@ -20092,7 +20015,6 @@
 *.cccccd.com
 *.cccclc-gd.com
 *.cccclc.com
-*.ccccoe.cc
 *.ccccoe.com
 *.ccccsg.com
 *.cccdun.com
@@ -20208,7 +20130,6 @@
 *.cciup.com
 *.ccj88.com
 *.ccjec.com
-*.ccjhdljs.com
 *.ccjkncdc.com
 *.ccjoo.com
 *.ccjoy.com
@@ -20390,7 +20311,6 @@
 *.cctvweishi.com
 *.cctvxftx365.com
 *.cctw.cc
-*.cctypx.com
 *.cctzz.net
 *.ccughc.net
 *.ccunf.com
@@ -21234,7 +21154,6 @@
 *.cghhospital.org
 *.cghospital.com
 *.cgicop.com
-*.cgiia.com
 *.cgiumuo.xyz
 *.cgjoy.com
 *.cgjoy.net
@@ -21877,6 +21796,7 @@
 *.chengzijianzhan.cc
 *.chengzijianzhan.com
 *.chengzivr.com
+*.chengziyuanma.com
 *.chenhe.cc
 *.chenhe.me
 *.chenhr.com
@@ -21975,7 +21895,6 @@
 *.cheweiguanjia.com
 *.chewen.com
 *.chewulin.com
-*.chexian9.com
 *.chexiancha.com
 *.chexiang.com
 *.chexiaoliang.net
@@ -22105,7 +22024,6 @@
 *.china-chca.org
 *.china-chigo.com
 *.china-cicc.org
-*.china-citytour.com
 *.china-clearing.com
 *.china-cloud.com
 *.china-cmca.org
@@ -22371,7 +22289,6 @@
 *.chinaave.org
 *.chinaaviationdaily.com
 *.chinab4c.com
-*.chinababy365.com
 *.chinabac.com
 *.chinabaike.com
 *.chinabaiker.com
@@ -22472,7 +22389,6 @@
 *.chinacleanexpo.com
 *.chinacljt.com
 *.chinacma.org
-*.chinacmo.com
 *.chinacoal.com
 *.chinacoatingnet.com
 *.chinacoffee.vip
@@ -22732,7 +22648,6 @@
 *.chinajan.com
 *.chinajcz.com
 *.chinajeweler.com
-*.chinajfj.com
 *.chinajienuo.com
 *.chinajierda.com
 *.chinajinguo.com
@@ -22923,7 +22838,6 @@
 *.chinaportrait.org
 *.chinaports.com
 *.chinapost-life.com
-*.chinapoto.com
 *.chinapower.org
 *.chinapowerbi.com
 *.chinapp.com
@@ -23194,7 +23108,6 @@
 *.chinayongfa.com
 *.chinayoubang.com
 *.chinayounao.com
-*.chinayouthpower.org
 *.chinays.com
 *.chinayuanwang.com
 *.chinayucai.com
@@ -23614,7 +23527,6 @@
 *.chuleg.com
 *.chumenwenwen.com
 *.chun-wang.com
-*.chun-xiang.com
 *.chundi.com
 *.chundi.org
 *.chunengauto.com
@@ -23872,7 +23784,6 @@
 *.cistds.org
 *.cistsports.com
 *.cisuntech.com
-*.cit168.com
 *.citahub.com
 *.citaq.com
 *.citeaexample.com
@@ -24197,7 +24108,6 @@
 *.cljport.com
 *.cljtscd.com
 *.cljtwr.com
-*.cljtzycw.com
 *.clled.com
 *.cllk.net
 *.clloz.com
@@ -24243,7 +24153,6 @@
 *.cloud-zhongwei.com
 *.cloud21cn.com
 *.cloud301.net
-*.cloud56.net
 *.cloud887325.com
 *.clouda.com
 *.cloudacc1.com
@@ -24676,7 +24585,6 @@
 *.cn-weida.com
 *.cn-wisely.com
 *.cn-witmed.com
-*.cn-xsl.com
 *.cn-zhentai.com
 *.cn-zhongrui.com
 *.cn.bing.com
@@ -25260,7 +25168,6 @@
 *.cnntzr.com
 *.cnnuo.com
 *.cnnx.net
-*.cnnyye.org
 *.cnobin.org
 *.cnod.net
 *.cnoddt.com
@@ -25426,7 +25333,6 @@
 *.cnssssl.com
 *.cnste.org
 *.cnstock.com
-*.cnsudong.com
 *.cnsug.com
 *.cnsun.net
 *.cnsunbird.com
@@ -25746,7 +25652,6 @@
 *.coffee-hdl.com
 *.coffee-iot.com
 *.coffee-script.org
-*.coffee08.com
 *.coffeecdn.com
 *.coffeejp.com
 *.coffeeofchina.com
@@ -25881,7 +25786,6 @@
 *.computer26.com
 *.comra.org
 *.comsenz.com
-*.comseoer.com
 *.comsharp.com
 *.comway-mro.com
 *.comweixin.com
@@ -25943,7 +25847,6 @@
 *.controlinai.com
 *.conuo.com
 *.convertlab.com
-*.convoypayments.com
 *.cony-tech.com
 *.conyedit.com
 *.conyli.cc
@@ -26029,7 +25932,6 @@
 *.coonote.com
 *.cooole.com
 *.coooolfan.com
-*.coooz.com
 *.coopcc.com
 *.cooperningbo.com
 *.coor.work
@@ -26044,7 +25946,6 @@
 *.cop.cdnetworks.com
 *.copl.com.hk
 *.copperalliance.asia
-*.copperhome.net
 *.copyedu.com
 *.copyfuture.com
 *.copythelink.com
@@ -26200,7 +26101,6 @@
 *.cpm1000.com
 *.cpmiao.net
 *.cpmrc.org
-*.cpnalb.org
 *.cpo.xyz
 *.cpo2o.com
 *.cpolar.com
@@ -26338,7 +26238,6 @@
 *.cqcp.net
 *.cqcpt.com
 *.cqcrane.com
-*.cqcrossmobil.com
 *.cqcsic.com
 *.cqcssk120.com
 *.cqcsskyy.com
@@ -26441,7 +26340,6 @@
 *.cqhengding.com
 *.cqhengr.com
 *.cqhewin.com
-*.cqhhm.com
 *.cqhimalayanky.com
 *.cqhjj.com
 *.cqhjjt.com
@@ -26736,7 +26634,6 @@
 *.cqtally.co
 *.cqtally.com
 *.cqtanlaoda.com
-*.cqtaotan.com
 *.cqtbyy.com
 *.cqtctech.com
 *.cqtea.com
@@ -26824,7 +26721,6 @@
 *.cqxwdb.com
 *.cqxwtx.com
 *.cqxxly.net
-*.cqxxt.com
 *.cqxyfl.com
 *.cqxygf.com
 *.cqxyjc.com
@@ -26972,7 +26868,6 @@
 *.crcsz.com
 *.crct.com
 *.crctrust.com
-*.crdyf.com
 *.cre.net
 *.cread.com
 *.creality.com
@@ -27768,7 +27663,6 @@
 *.cwun.org
 *.cwxzx.com
 *.cwyan.com
-*.cwz12123.com
 *.cwzdgroup.com
 *.cwzww.com
 *.cx-smarthome.com
@@ -27911,7 +27805,6 @@
 *.cyegushi.com
 *.cyfeng.com
 *.cyfengchao.com
-*.cyflscb.com
 *.cyfyydyfy.com
 *.cygbdst.com
 *.cygia.com
@@ -27986,7 +27879,6 @@
 *.cyudun.net
 *.cyuew.com
 *.cyuntech.com
-*.cyuyin.com
 *.cyvalve.com
 *.cywetc.com
 *.cywl.org
@@ -28378,7 +28270,6 @@
 *.dagongnet.com
 *.dagongtech.com
 *.daguan.com
-*.daguangnews.com
 *.dagufood.com
 *.daguiot.com
 *.daguipc.com
@@ -28442,7 +28333,6 @@
 *.daidongxi.com
 *.daigege.com
 *.daigou.com
-*.daigraphia.com
 *.daihing.com
 *.daijuchuang.net
 *.daijun.com
@@ -28453,7 +28343,6 @@
 *.dailianqun.com
 *.dailiantong.com
 *.dailianzj.com
-*.dailiba.com
 *.dailijizhang.cc
 *.dailugou.com
 *.dailybing.com
@@ -29081,7 +28970,6 @@
 *.dazhoushan.com
 *.dazhouwater.com
 *.dazhu1988.com
-*.dazhuangwang.com
 *.dazhuangyan.com
 *.dazibo.com
 *.dazidazi.com
@@ -29318,7 +29206,6 @@
 *.ddtk.vip
 *.ddtsg.com
 *.ddtugame.com
-*.ddtxgame.com
 *.ddun.com
 *.ddunyun.com
 *.ddurl.to
@@ -29494,7 +29381,6 @@
 *.dehuiyuan.com
 *.dehumidifierchina.com
 *.deifgs.com
-*.deikuo.com
 *.dejiart.com
 *.dejiplaza.com
 *.dekeego.com
@@ -29885,7 +29771,6 @@
 *.dgkj888.com
 *.dglpool.com
 *.dglyjx.com
-*.dglyyun.com
 *.dglzd.com
 *.dgmama.net
 *.dgndf.com
@@ -29910,13 +29795,11 @@
 *.dgruizhi.com
 *.dgrunhe.com
 *.dgs-td2.com
-*.dgsbtjx.com
 *.dgsfweb.com
 *.dgshifeng.com
 *.dgshunjin.com
 *.dgsltx.com
 *.dgsme.org
-*.dgspk.com
 *.dgswhg.com
 *.dgsztyy.com
 *.dgt-factory.com
@@ -30126,7 +30009,6 @@
 *.dianshangyi.com
 *.dianshi.com
 *.dianshihome.com
-*.dianshijia.com
 *.dianshu119.com
 *.diansu-cdn.net
 *.diantads.com
@@ -30242,7 +30124,6 @@
 *.didiopenapi.com
 *.didipai.com
 *.didiqiche.com
-*.didishijie.com
 *.didispace.com
 *.didistatic.com
 *.diditaxi.com
@@ -30569,7 +30450,6 @@
 *.dj97.com
 *.dj99.com
 *.djbh.net
-*.djbhjg.net
 *.djbx.com
 *.djc8888.com
 *.djcc.com
@@ -30596,7 +30476,6 @@
 *.djjlseo.com
 *.djjw.com
 *.djjyzly.com
-*.djkgongshui.com
 *.djkk.com
 *.djkpai.com
 *.djksh.com
@@ -30617,7 +30496,6 @@
 *.djttw.com
 *.djtz.net
 *.dju8.com
-*.djunf.com
 *.djuu.com
 *.djwjsj.com
 *.djxcable.com
@@ -30721,7 +30599,6 @@
 *.dlnyzb.com
 *.dlonng.com
 *.dlosri.com
-*.dlouf.com
 *.dlphoschem.com
 *.dlpuwan.com
 *.dlqcgz.com
@@ -31045,7 +30922,6 @@
 *.docuarea.org
 *.documents.cdnetworks.com
 *.docx88.com
-*.docxz.com
 *.doczj.com
 *.dodjoy.com
 *.dodo8.com
@@ -31267,7 +31143,6 @@
 *.dongteng.cc
 *.dongting.com
 *.dongtu.com
-*.dongua.com
 *.dongwm.com
 *.dongxi.net
 *.dongxingkonggu.com
@@ -31770,7 +31645,6 @@
 *.dsnzyy120.com
 *.dsook.com
 *.dsp.com
-*.dspczg.pw
 *.dspga.com
 *.dspgo.com
 *.dspmt.com
@@ -31913,7 +31787,6 @@
 *.dudujuzi.com
 *.dudulu.org
 *.dudutalk.com
-*.duduwo.com
 *.duelcn.com
 *.dugrqnn.xyz
 *.duguying.net
@@ -32518,7 +32391,6 @@
 *.dzy.link
 *.dzybk.com
 *.dzyqc.com
-*.dzyule.com
 *.dzyysb.com
 *.dzyzj.com
 *.dzz.cc
@@ -32717,7 +32589,6 @@
 *.eaglenos.com
 *.eagleyun.com
 *.eagllwin.com
-*.eagonxc.com
 *.eagsen.com
 *.eaibot.com
 *.eaka365.com
@@ -33157,7 +33028,6 @@
 *.edcfda.com
 *.eddic.net
 *.eddingpharm.com
-*.eddong.com
 *.eddycjy.com
 *.ede35.com
 *.ededian.com
@@ -33271,9 +33141,7 @@
 *.edumail.pub
 *.edumine.net
 *.edumq.com
-*.edumsys.com
 *.eduour.com
-*.edupm.com
 *.edurck.com
 *.edushi.com
 *.edusoho.com
@@ -33394,7 +33262,6 @@
 *.effapp.com
 *.efficient.hk
 *.effirst.com
-*.effood.net
 *.efglobal-gy.com
 *.efivestar.com
 *.efl-tech.com
@@ -33670,7 +33537,6 @@
 *.elingyun.com
 *.elinzy.com
 *.elita.work
-*.elite-shooters.com
 *.elitecrm.com
 *.elitenexusgroup.com
 *.elitesland.com
@@ -34154,7 +34020,6 @@
 *.ermiao.com
 *.ernaonet.com
 *.ernest.me
-*.ernxzc.com
 *.eroacg.com
 *.eromesalo.com
 *.erongdu.com
@@ -34369,7 +34234,6 @@
 *.etoptour.com
 *.etoubao.com
 *.etoujie.com
-*.etovl.org
 *.etowncapital.com
 *.etownestate.com
 *.etpass.com
@@ -34518,7 +34382,6 @@
 *.evinchina.com
 *.evisa99.com
 *.evisionics.com
-*.evisugo.com
 *.evketang.com
 *.evkworld.net
 *.evlightpro.com
@@ -34650,7 +34513,6 @@
 *.expdns.net
 *.expec-tech.com
 *.expensiveg.com
-*.expin.site
 *.expingworld.com
 *.expiredns.net
 *.expirenotification.com
@@ -35077,7 +34939,6 @@
 *.fangchengganglvxingshe.com
 *.fangchip.com
 *.fangcloud.com
-*.fangcunshan.xyz
 *.fangda-specialsteels.com
 *.fangda.com
 *.fangdacarbon.com
@@ -35419,6 +35280,7 @@
 *.fbaichuan.com
 *.fbank.com
 *.fbatop.com
+*.fbblepi.com
 *.fbf6c93bf10272.beer
 *.fbflex.com
 *.fbjsgf.com
@@ -35508,7 +35370,6 @@
 *.fcw0633.com
 *.fcw6.com
 *.fcwr8.com
-*.fcwyglyxgs.com
 *.fcxxh.org
 *.fcz.ink
 *.fcz360.com
@@ -35562,7 +35423,6 @@
 *.fe7f9abcbf8e1dd2.com
 *.feadi.com
 *.feanton.com
-*.feapp.net
 *.featchina.com
 *.febbab1472011af4.com
 *.fecc.cc
@@ -35744,7 +35604,6 @@
 *.feixueteam.net
 *.feiyang.com
 *.feiyang.hk
-*.feiyang233.club
 *.feiyang971.com
 *.feiyangholiday.com
 *.feiyangjm.com
@@ -36456,7 +36315,6 @@
 *.fjzyxx.com
 *.fjzzct.com
 *.fk100.com
-*.fkask.net
 *.fkblog.org
 *.fkbuff.com
 *.fkcaijing.com
@@ -36868,7 +36726,6 @@
 *.fotosay.com
 *.fototuan.com
 *.foturn.com
-*.fou.net
 *.founder.com
 *.founder.net
 *.founderaipu.com
@@ -37268,7 +37125,6 @@
 *.fu-rui.com
 *.fu2zu.com
 *.fu57.com
-*.fu62.vip
 *.fuanna.com
 *.fubabafumama.com
 *.fubangauctions.com
@@ -37279,8 +37135,6 @@
 *.fuca-china.com
 *.fucantec.com
 *.fuchaipower.com
-*.fuchen33.com
-*.fuchengshicai.com
 *.fuchuangyu.com
 *.fucnm.com
 *.fucol.club
@@ -37339,7 +37193,6 @@
 *.fujiansme.com
 *.fujianyinruan.com
 *.fujincenter.com
-*.fujinguo.com
 *.fujinjiazheng.com
 *.fujinotrade.com
 *.fujutec.com
@@ -37798,7 +37651,6 @@
 *.fzkjg.com
 *.fzl7.com
 *.fzlawyers.net
-*.fzlean.com
 *.fzlft.com
 *.fzlizhi.net
 *.fzlol.com
@@ -37866,7 +37718,6 @@
 *.g2h3.com
 *.g2us.com
 *.g2work.com
-*.g32365.com
 *.g3d.org
 *.g3img.com
 *.g3user.com
@@ -38781,7 +38632,6 @@
 *.gdsrcw.com
 *.gdssie.com
 *.gdsspt.net
-*.gdst.cc
 *.gdstc.group
 *.gdstie.com
 *.gdstlab.com
@@ -39068,7 +38918,6 @@
 *.gemii.cc
 *.gemini-galaxy.com
 *.gemini530.net
-*.gemjz.com
 *.gemled-tech.com
 *.gempharmatech.com
 *.gempoll.com
@@ -39181,7 +39030,6 @@
 *.get-shell.com
 *.get.vip
 *.get233.com
-*.getbs.com
 *.getcai.com
 *.getddhospi.com
 *.getehu.com
@@ -39244,7 +39092,6 @@
 *.gfbk.net
 *.gfbzb.com
 *.gfbzb.net
-*.gfcdn.xyz
 *.gfcity.com
 *.gfcname.com
 *.gfcvisa.com
@@ -39417,7 +39264,6 @@
 *.ggwlxx.com
 *.ggwxmuye.com
 *.ggwzpf120.com
-*.ggxarq.com
 *.ggxdsmzx.com
 *.ggxhx.com
 *.ggxiaolinmy.com
@@ -39430,7 +39276,6 @@
 *.ggy775.com
 *.ggyouyu.com
 *.ggysfw.com
-*.ggytc.com
 *.ggyx666.com
 *.ggyy100.com
 *.ggzbbj.com
@@ -39490,7 +39335,6 @@
 *.ghparking.com
 *.ghpepower.com
 *.ghproxy.cc
-*.ghpy3333.com
 *.ghpym.com
 *.ghrepower.com
 *.ghrlib.com
@@ -40359,7 +40203,6 @@
 *.gongzhao.work
 *.gongzhou.com
 *.gongzhou.net
-*.gongzhun.com
 *.gongzicp.com
 *.gongzufudinzu.com
 *.gongzuobaogao.xyz
@@ -40555,7 +40398,6 @@
 *.gouwubang.com
 *.gouwudang.com
 *.gouwuke.com
-*.gouwule.com
 *.gouwuyu.com
 *.gouyoukeji.com
 *.gov-static.tech
@@ -40936,7 +40778,6 @@
 *.gsyygh.com
 *.gszhaopin.com
 *.gszlyy.com
-*.gszph.com
 *.gszq.com
 *.gszsc.com
 *.gszybw.com
@@ -41303,7 +41144,6 @@
 *.gudongtech.com
 *.gufengmh9.com
 *.gufenxueshu.net
-*.gug66.com
 *.gugeapps.net
 *.gugexs.com
 *.gugezg.com
@@ -41321,7 +41161,6 @@
 *.guhantai.com
 *.guhei.net
 *.guheshuyuan.com
-*.guhuozaiol.com
 *.gui333.com
 *.gui66.com
 *.guibi.com
@@ -41403,7 +41242,6 @@
 *.guizeco.com
 *.guizheng.net
 *.guizhenghe.com
-*.guizhenwei.com
 *.guizhougames.com
 *.guizhougas.com
 *.guizhoushengyang.com
@@ -41548,7 +41386,6 @@
 *.guomob.com
 *.guomu.com
 *.guoocang.com
-*.guopeiwang.com
 *.guopika.com
 *.guoping123.com
 *.guopop.tech
@@ -41852,7 +41689,6 @@
 *.gxbys.com
 *.gxbyw.com
 *.gxbyx.com
-*.gxbzjx.com
 *.gxcae.com
 *.gxcaining.com
 *.gxcaiyiduo.com
@@ -41922,7 +41758,6 @@
 *.gxcskj.com
 *.gxcsmed.com
 *.gxcsmx.com
-*.gxcsqj.com
 *.gxcsycj.com
 *.gxcsypm.com
 *.gxcszm.com
@@ -42215,7 +42050,6 @@
 *.gxgyrq.com
 *.gxgyyclc.com
 *.gxgyyy.com
-*.gxgzlm.com
 *.gxgztyy.com
 *.gxgzy.com
 *.gxgzzn.com
@@ -42267,7 +42101,6 @@
 *.gxhhhb.com
 *.gxhhig.com
 *.gxhhjk.com
-*.gxhhjt.net
 *.gxhhmed.com
 *.gxhhzsjt.com
 *.gxhigreen.com
@@ -43287,7 +43120,6 @@
 *.gxxmjjs.com
 *.gxxmyjs.com
 *.gxxndz.com
-*.gxxpgd.com
 *.gxxqsm.com
 *.gxxrf.com
 *.gxxrxmgl.com
@@ -43546,7 +43378,6 @@
 *.gxzyfs.com
 *.gxzygygs.com
 *.gxzyhb.com
-*.gxzyjl.com
 *.gxzyjsgc.com
 *.gxzyky.com
 *.gxzymodel.com
@@ -43657,7 +43488,6 @@
 *.gyyb.com
 *.gyycc.com
 *.gyypw.com
-*.gyyuli.com
 *.gyyywcpx.com
 *.gyzdh.com
 *.gyzdkq.com
@@ -43812,7 +43642,6 @@
 *.gzfqyy.com
 *.gzfrldz.com
 *.gzfsnet.com
-*.gzfuk.net
 *.gzgajy.com
 *.gzgas.com
 *.gzgayy.com
@@ -43884,7 +43713,6 @@
 *.gzhx10.com
 *.gzhxaq.com
 *.gzhxyyhos.com
-*.gzhygk.com
 *.gzhysy.com
 *.gzhzcj.com
 *.gzidc.com
@@ -44204,7 +44032,6 @@
 *.gzxrsqj.com
 *.gzxswh.com
 *.gzxsyy.com
-*.gzxszf.com
 *.gzxue.com
 *.gzxulang.com
 *.gzxwtjy.com
@@ -44270,7 +44097,6 @@
 *.gzzmedu.com
 *.gzzoc.com
 *.gzzongsi.com
-*.gzzoo.com
 *.gzzqy.net
 *.gzzrdc007.com
 *.gzzulin.com
@@ -44507,7 +44333,6 @@
 *.haihuishou.com
 *.haiintelligent.com
 *.haijia.org
-*.haijianchuxing.com
 *.haijianstock.com
 *.haijiaonet.com
 *.haijiaoshi.com
@@ -44597,7 +44422,6 @@
 *.haiqisoft.com
 *.haiqq.com
 *.haiqu.vip
-*.hair43.com
 *.hair8.net
 *.hairbobo.com
 *.hairboxonline.com
@@ -44738,6 +44562,7 @@
 *.haluolinks.com
 *.halvie.com
 *.ham.xin
+*.hamashouzuo.com
 *.hamdl.com
 *.hamedal.com
 *.haminol.com
@@ -44764,7 +44589,6 @@
 *.handelic.com
 *.handelsen.com
 *.handern.com
-*.handisele.com
 *.handone.com
 *.handongkj.com
 *.handongruanjian.com
@@ -44804,7 +44628,6 @@
 *.hangkongxx.com
 *.hanglorygroup.com
 *.hangnakeji.com
-*.hangongjk.com
 *.hangpai.org
 *.hangpu-topsys.com
 *.hangruntech.com
@@ -44975,7 +44798,6 @@
 *.hao123n.com
 *.hao1358.com
 *.hao136.com
-*.hao163.com
 *.hao184.com
 *.hao1cm.com
 *.hao22.com
@@ -45102,7 +44924,6 @@
 *.haojie.work
 *.haojing.org
 *.haojit.com
-*.haojixiong.com
 *.haoju5.com
 *.haojue.com
 *.haojue163.com
@@ -45186,7 +45007,6 @@
 *.haosd.com
 *.haoseals.com
 *.haosedaohang.com
-*.haosenchina.com
 *.haoservice.com
 *.haosf.com
 *.haosf.net
@@ -45458,7 +45278,6 @@
 *.hb-ws.com
 *.hb-xydq.com
 *.hb-young.com
-*.hb0561.com
 *.hb0771.com
 *.hb10000.com
 *.hb10000sale.com
@@ -45480,7 +45299,6 @@
 *.hbahyy.com
 *.hbairport.com
 *.hbanbao.com
-*.hbaog.com
 *.hbapia.vip
 *.hbasstu.net
 *.hbbaidu.com
@@ -45540,7 +45358,6 @@
 *.hbdjk.com
 *.hbdmia.com
 *.hbdschem.com
-*.hbdssb.com
 *.hbdtjqj.com
 *.hbdx-kdyy.com
 *.hbdzcg.com
@@ -45551,7 +45368,6 @@
 *.hbeducloud.com
 *.hbeeia.com
 *.hbekt.com
-*.hbema.net
 *.hbepec.com
 *.hbfesco.com
 *.hbfie.org
@@ -45742,7 +45558,6 @@
 *.hbshgzx.com
 *.hbshichang.com
 *.hbshls.com
-*.hbshunda.com
 *.hbsia.org
 *.hbsjym.com
 *.hbsjzyxh.com
@@ -45998,7 +45813,6 @@
 *.hd8y.com
 *.hdabc.com
 *.hdanc.com
-*.hdanheng.com
 *.hdarea.club
 *.hdavchina.com
 *.hdb.com
@@ -46054,7 +45868,6 @@
 *.hdmtv168.com
 *.hdnd01.com
 *.hdnychina.com
-*.hdp88.com
 *.hdph.com
 *.hdpyqa.com
 *.hdpyqc.com
@@ -46237,7 +46050,6 @@
 *.hedaweb.com
 *.hedgehogbio.com
 *.hedgehogrock.com
-*.hedlaonga.com
 *.hedongli.com
 *.hedpump.com
 *.hedu.net
@@ -46459,7 +46271,6 @@
 *.henanjiqiren.com
 *.henanjubao.com
 *.henanrc.com
-*.henansha.com
 *.henanshengtang.com
 *.henansyj.com
 *.henanxinjiang.com
@@ -46500,7 +46311,6 @@
 *.henggufood.com
 *.henghe-group.com
 *.henghe666.com
-*.henghengmao.com
 *.henghongjixie.com
 *.hengjiafish.net
 *.hengjianyy.com
@@ -47056,7 +46866,6 @@
 *.hiby.com
 *.hibymusic.com
 *.hic.cloud
-*.hicamelia.com
 *.hicane.com
 *.hiccupx.xyz
 *.hicdma.com
@@ -47100,7 +46909,6 @@
 *.hifengli.com
 *.hifi168.com
 *.hificat.com
-*.hifidig.com
 *.hifidiy.net
 *.hifime.net
 *.hifiok.com
@@ -47120,7 +46928,6 @@
 *.higeshi.com
 *.higgmm.net
 *.high-genius.com
-*.high25-playback.com
 *.highdigitizing.com
 *.highfaststudio.com
 *.highfel.com
@@ -47578,7 +47385,6 @@
 *.hljpost.com
 *.hljradio.com
 *.hljrcc.com
-*.hljsdm.com
 *.hljszjxhw.com
 *.hljtchina.com
 *.hljtcm.com
@@ -47590,7 +47396,6 @@
 *.hljyqnj.com
 *.hljyushi.com
 *.hljzl.icu
-*.hlkd.pro
 *.hlkkwl.com
 *.hlkncse.com
 *.hlktech.com
@@ -47604,7 +47409,6 @@
 *.hlo-trade.com
 *.hloong.com
 *.hlqiaojia.com
-*.hlqxj.com
 *.hlread.com
 *.hlsdq.com
 *.hlsimu.com
@@ -47670,7 +47474,6 @@
 *.hmqg.com
 *.hmqjsb.com
 *.hmrczp.com
-*.hmreuj.com
 *.hmrsrc.com
 *.hmsemi.com
 *.hmszkj.com
@@ -47755,7 +47558,6 @@
 *.hncwc.com
 *.hncxwater.com
 *.hncytxly.com
-*.hncyzx.com
 *.hndbsp.com
 *.hndca.com
 *.hndcyg.com
@@ -47846,7 +47648,6 @@
 *.hnisca.org
 *.hniso.net
 *.hnisvc.com
-*.hnitedu.org
 *.hnjbwh.com
 *.hnjcly.com
 *.hnjg.com
@@ -48629,7 +48430,6 @@
 *.houqinbao.com
 *.houqun.net
 *.houquner.com
-*.hourt-cert.com
 *.hourui-arch.net
 *.house086.com
 *.house178.com
@@ -48984,7 +48784,6 @@
 *.hstczkj.com
 *.hstd.com
 *.hstong.com
-*.hstpizza.com
 *.hstspace.com
 *.hstypay.com
 *.hstyre.com
@@ -49078,6 +48877,7 @@
 *.htjinju.com
 *.htjob.net
 *.htjs.net
+*.htjsbss.com
 *.htjsq.com
 *.htjsq.mobi
 *.htkaoyan.com
@@ -49783,6 +49583,7 @@
 *.hufe.cc
 *.hugane.com
 *.hugcar.com
+*.hugchange.life
 *.hugd.com
 *.hugecdn168.com
 *.hugeland.com
@@ -49808,7 +49609,6 @@
 *.hui.net
 *.hui10.com
 *.hui10.net
-*.hui100.com
 *.hui43.com
 *.hui800.com
 *.hui800.net
@@ -50411,7 +50211,6 @@
 *.huzwater.com
 *.hvacstar.com
 *.hvchan.com
-*.hvcnitl.com
 *.hvdiy.com
 *.hvread.com
 *.hvsgqlo.xyz
@@ -51475,7 +51274,6 @@
 *.ianbaby.com
 *.iandun.com
 *.ianvisa.com
-*.ianxing.com
 *.iaocwbk.com
 *.iaoligame.com
 *.iaoyou.com
@@ -51908,7 +51706,6 @@
 *.idc129.com
 *.idc1680.com
 *.idc180.com
-*.idc218.com
 *.idc35.com
 *.idc4.com
 *.idc400.com
@@ -52118,9 +51915,7 @@
 *.ietdata.com
 *.ietheivaicai.com
 *.ietheme.com
-*.ietrcd.com
 *.ievision.com
-*.iewb.net
 *.iewie.org
 *.iewoai.com
 *.iewzx.com
@@ -52400,7 +52195,6 @@
 *.ii77.com
 *.iianews.com
 *.iiaq.net
-*.iiast.com
 *.iiauuw.com
 *.iibechina.com
 *.iibq.com
@@ -52542,7 +52336,6 @@
 *.ikunac.com
 *.ikuncdnfb.com
 *.ikunpay.com
-*.ikupan.me
 *.ikx.me
 *.ikyy.cc
 *.ikzybf.com
@@ -52586,7 +52379,6 @@
 *.ilinksure.com
 *.ilinuxkernel.com
 *.ilinyi.net
-*.ilivehouse.com
 *.ilixiangguo.com
 *.iliyu.com
 *.ilkwork.com
@@ -52596,7 +52388,6 @@
 *.iloli.bid
 *.iloli.xin
 *.ilongre.com
-*.iloveanan.com
 *.ilovechao.com
 *.ilovefishc.com
 *.iloveopened.com
@@ -52606,7 +52397,6 @@
 *.ilovezz.com
 *.ilsungf.com
 *.ilucky.net
-*.iluckysf.net
 *.iluezhi.com
 *.ilufan.com
 *.iluhang.com
@@ -54124,7 +53914,6 @@
 *.iwzbz.com
 *.iwztc.com
 *.iwzwh.com
-*.iwzwy.com
 *.ix-edu.com
 *.ixbk.fun
 *.ixbk.net
@@ -54579,7 +54368,6 @@
 *.jctmj.net
 *.jctrans.com
 *.jcumbrella.com
-*.jcvba.com
 *.jcwgk.com
 *.jcwgo.com
 *.jcwiki.net
@@ -54981,7 +54769,6 @@
 *.jh3737.com
 *.jh3j.com
 *.jh597.com
-*.jh5l.com
 *.jh8k.com
 *.jh96095.com
 *.jhak.com
@@ -55028,7 +54815,6 @@
 *.jhrcsc.com
 *.jhrcw.com
 *.jhsairport.com
-*.jhsc201ddd211svds.com
 *.jhscl.net
 *.jhscm.com
 *.jhscrm.com
@@ -55233,7 +55019,6 @@
 *.jianghui.xyz
 *.jiangidea.com
 *.jiangjizhong.com
-*.jiangkk.com
 *.jianglinminingindustry.com
 *.jiangmama.net
 *.jiangmike.com
@@ -55526,7 +55311,6 @@
 *.jiazhichem.com
 *.jiazhoulvke.com
 *.jiazhuang.com
-*.jiazhuang6.com
 *.jiazile.com
 *.jiazuo.cc
 *.jibai.com
@@ -55537,7 +55321,6 @@
 *.jibite.fun
 *.jicaibao.com
 *.jicaifund.com
-*.jicaixinke.com
 *.jice.io
 *.jichangbus.com
 *.jichangdaba.com
@@ -55618,6 +55401,7 @@
 *.jiemeng.cc
 *.jiemeng.tw
 *.jiemeng8.com
+*.jiemengjia.com
 *.jiement.com
 *.jiemian.com
 *.jiemin.com
@@ -55751,7 +55535,6 @@
 *.jikuai.work
 *.jilailawyer.com
 *.jilaoshi.com
-*.jiletaotao.com
 *.jili20.com
 *.jiliguala.com
 *.jilingames.com
@@ -56028,7 +55811,6 @@
 *.jingyunos.com
 *.jingyunyilian.com
 *.jingyuweike.com
-*.jingyuxiaoban.com
 *.jingyuyun.com
 *.jingzhengu.com
 *.jingzhi5.com
@@ -56536,7 +56318,6 @@
 *.jixiehonghong.com
 *.jixiejiaoyu.com
 *.jixieshi.com
-*.jixieshigong.com
 *.jixiew360.com
 *.jixiewz.com
 *.jixinbbd.com
@@ -56666,7 +56447,6 @@
 *.jjsedu.org
 *.jjshome.com
 *.jjsip.com
-*.jjtang.com
 *.jjtianshangi.com
 *.jjtonline.com
 *.jjtravel.com
@@ -56843,7 +56623,6 @@
 *.jllihua.com
 *.jllyzxyy.com
 *.jlmhk.com
-*.jlmhw.com
 *.jlmuban.com
 *.jlnku.com
 *.jlnls.com
@@ -56970,7 +56749,6 @@
 *.jn-bank.com
 *.jn-cits.com
 *.jn001.com
-*.jn1535.com
 *.jn172.com
 *.jn720.com
 *.jn80.com
@@ -57108,7 +56886,6 @@
 *.jobczrc.com
 *.jobeast.com
 *.jobef.com
-*.jobgojob.com
 *.jobhb.com
 *.jobhuaibei.com
 *.jobi5.com
@@ -57240,6 +57017,7 @@
 *.joy5151.com
 *.joya-electric.com
 *.joyact.com
+*.joyai.com
 *.joyami.com
 *.joyanglab.com
 *.joyapi.com
@@ -57322,7 +57100,6 @@
 *.jpedo.com
 *.jpeen.com
 *.jperation.com
-*.jpfmor.com
 *.jpg.cm
 *.jpghd.com
 *.jpgjzzs.com
@@ -57334,7 +57111,6 @@
 *.jpmetro.com
 *.jpmsg.com
 *.jpnettech.com
-*.jpqgxy.com
 *.jprtyun.com
 *.jpsdk.com
 *.jpseek.com
@@ -57364,7 +57140,6 @@
 *.jq22.com
 *.jq33.com
 *.jqbar.com
-*.jqcool.net
 *.jqgc.com
 *.jqhtml.com
 *.jqkgjt.com
@@ -57448,7 +57223,6 @@
 *.js-dw.com
 *.js-emap.com
 *.js-gear.com
-*.js-gojo.com
 *.js-haiyao.com
 *.js-jiatai.com
 *.js-jinhua.com
@@ -57685,7 +57459,6 @@
 *.jsjcjx.com
 *.jsjclykz.com
 *.jsjd.cc
-*.jsjdgy.com
 *.jsjdjt.com
 *.jsjdrcb.com
 *.jsjdzf.com
@@ -57762,7 +57535,6 @@
 *.jslysp.com
 *.jsmda.org
 *.jsmfk.com
-*.jsmian.com
 *.jsminstar.com
 *.jsmjys.com
 *.jsmkyy.com
@@ -58481,7 +58253,6 @@
 *.juxinguanjian.com
 *.juxinhuizhi.com
 *.juxuan.net
-*.juxuecms.com
 *.juxuewen.com
 *.juyang-chem.com
 *.juyanwenjuan.com
@@ -58717,7 +58488,6 @@
 *.jxsenyang.com
 *.jxsfjzsh.com
 *.jxsg.com
-*.jxshangyou.com
 *.jxshyzhx.com
 *.jxsilkpark.com
 *.jxsj-vtech.com
@@ -59119,7 +58889,6 @@
 *.kaifae.com
 *.kaifage.com
 *.kaifakuai.com
-*.kaifama.com
 *.kaifamei.com
 *.kaifangkecheng.com
 *.kaifapiao.com
@@ -59441,7 +59210,6 @@
 *.kaomeiyuan.com
 *.kaonaw.com
 *.kaonenyi.com
-*.kaonun.com
 *.kaopu001.com
 *.kaopubao.com
 *.kaopujinfu.com
@@ -59634,7 +59402,6 @@
 *.kebvalves.com
 *.keceyun.com
 *.kechengbiao.net
-*.kechengkeli.com
 *.kechuang.org
 *.kechuangai.com
 *.kechuangfu.com
@@ -59811,8 +59578,6 @@
 *.keovo.net
 *.kepusky.com
 *.keputech.com
-*.keqiaojob.com
-*.keqii.com
 *.kequcps.com
 *.ker58.com
 *.kercan.net
@@ -59878,7 +59643,6 @@
 *.kexu.com
 *.kexue.com
 *.kexue.fm
-*.kexuezixunzzs.com
 *.kexuna.com
 *.key-iot.com
 *.keyboardancer.com
@@ -59914,7 +59678,6 @@
 *.keyunidc.com
 *.keyunlaser.com
 *.keyunsoft.com
-*.keyyaam.com
 *.kezehb.com
 *.kezhaozhao.com
 *.kezhi.tech
@@ -59997,7 +59760,6 @@
 *.kidspsy.com
 *.kidsthomas.com
 *.kidsyun.com
-*.kidulte.com
 *.kidulty.com
 *.kiees.com
 *.kiiik.com
@@ -60261,7 +60023,6 @@
 *.kkdzpt.com
 *.kkeji.com
 *.kkexcel.com
-*.kkfesw.com
 *.kkffdns.com
 *.kkfw.net
 *.kkgithub.com
@@ -60379,7 +60140,6 @@
 *.kmfengli.com
 *.kmgdgs.com
 *.kmguolv.com
-*.kmgybsr.com
 *.kmhpc.net
 *.kmhwtz.com
 *.kmjt.net
@@ -60714,7 +60474,6 @@
 *.ksco.cc
 *.ksdedu.com
 *.ksdhgy.com
-*.ksdown.com
 *.ksecit.com
 *.ksedt.com
 *.kseibitools.com
@@ -60956,7 +60715,6 @@
 *.kuaishouapp.com
 *.kuaishouapp.net
 *.kuaishouapps.com
-*.kuaishouba.com
 *.kuaishougroup.com
 *.kuaishoupay.com
 *.kuaishouzt.com
@@ -61295,7 +61053,6 @@
 *.kwong-tech.com
 *.kws123.com
 *.kwt56.com
-*.kwtgs.com
 *.kwtzn.com
 *.kwudor.com
 *.kwwblcj.com
@@ -61522,7 +61279,6 @@
 *.laikanxing.com
 *.laikanxs.com
 *.laike.net
-*.laikeerp.com
 *.laiketui.com
 *.lailaieshop.com
 *.lailaihui.com
@@ -61848,7 +61604,6 @@
 *.laobangban.com
 *.laobanmail.com
 *.laobi.icu
-*.laobinggun.com
 *.laobingmi.com
 *.laobuxie.com
 *.laocen.com
@@ -62191,7 +61946,6 @@
 *.lcxzyy.com
 *.lcycgg.com
 *.lcyff.com
-*.lcyhdl.com
 *.lcyidc.com
 *.lcyinsu.com
 *.lcykgg.com
@@ -62378,7 +62132,6 @@
 *.lede.com
 *.ledger-phrase.com
 *.ledguhon.com
-*.ledhyzm.com
 *.ledianyun.com
 *.lediaocha.com
 *.ledmary.com
@@ -62486,7 +62239,6 @@
 *.leixiaofeng.net
 *.leixinbuild.com
 *.leixue.com
-*.leiyediaoche.com
 *.leiyunge.com
 *.leiyunge.net
 *.leji.com
@@ -62503,7 +62255,6 @@
 *.lejunwl.com
 *.lekan.com
 *.lekannews.com
-*.lekazc.com
 *.lekevr.com
 *.lekoukou.com
 *.lektec.com
@@ -62646,7 +62397,6 @@
 *.leshuwu.com
 *.lesimao.net
 *.lesjob.com
-*.lesjulo.com
 *.leslie-cheung.com
 *.lesofn.com
 *.lesonccl.com
@@ -63053,7 +62803,6 @@
 *.liaogu.com
 *.liaogx.com
 *.liaoing.com
-*.liaoji.com
 *.liaojiu.net
 *.liaokong.com
 *.liaoliao.com
@@ -63430,7 +63179,6 @@
 *.lingruofeng.com
 *.lingshangkaihua.com
 *.lingshangmeien.com
-*.lingshenxing.com
 *.lingshenxl.com
 *.lingshi.com
 *.lingshimiyu.com
@@ -63648,7 +63396,6 @@
 *.linyi.net
 *.linyibus.net
 *.linyiren.com
-*.linyizhizhiyuan.com
 *.linyouquan.net
 *.linyufan.com
 *.linzhou.store
@@ -63808,7 +63555,6 @@
 *.liujinkai.com
 *.liujto.com
 *.liujunworld.com
-*.liujy.com
 *.liukai.net
 *.liukebao.com
 *.liulan.net
@@ -63878,7 +63624,6 @@
 *.liuyangjob.com
 *.liuyanzhao.com
 *.liuyifei.cc
-*.liuyiguo.com
 *.liuyimin4.com
 *.liuyixiang.com
 *.liuyua.xyz
@@ -63923,7 +63668,6 @@
 *.liveupdate-cn.msi.com
 *.livevideostack.com
 *.living.ai
-*.livotre.com
 *.liwai.com
 *.liwanggui.com
 *.liwanght.com
@@ -63941,7 +63685,6 @@
 *.liwushuo.com
 *.liwuzhi.art
 *.lixcx.com
-*.lixfaf.com
 *.lixiaedu.com
 *.lixiang.com
 *.lixianghuanbao.com
@@ -64228,7 +63971,6 @@
 *.lnicp.com
 *.lninfo.com
 *.lnjfyc.com
-*.lnjmlnykjfzyxzrgs.com
 *.lnjpedu.com
 *.lnjzxy.com
 *.lnk0.com
@@ -64711,7 +64453,6 @@
 *.lqhualang.com
 *.lqjob88.com
 *.lqjt.com
-*.lqjyw.net
 *.lqlst.com
 *.lqpos.vip
 *.lqqm.com
@@ -65014,7 +64755,6 @@
 *.luexpo.com
 *.lueyue.com
 *.luezhi.com
-*.lufahouse.com
 *.lufangjia.com
 *.lufax.com
 *.lufaxcdn.com
@@ -65135,7 +64875,6 @@
 *.luosi.com
 *.luosifen888.com
 *.luosimao.com
-*.luosoft.com
 *.luotiannews.com
 *.luotianyi.vc
 *.luotuo101.com
@@ -65651,7 +65390,6 @@
 *.lyzb.com
 *.lyzb33.app
 *.lyzfgjj.com
-*.lyzhanlang.com
 *.lyzlzz.com
 *.lyzp100.com
 *.lyzyxy.com
@@ -65871,7 +65609,6 @@
 *.lzyxfs.com
 *.lzyxsoft.net
 *.lzyyy.com
-*.lzyz.fun
 *.lzyz.org
 *.lzyzbz.com
 *.lzyzx.net
@@ -65923,7 +65660,6 @@
 *.m5m6x0vh.com
 *.m5stack.com
 *.m6.run
-*.m7686d7aw5.com
 *.m7hwocyo67.com
 *.m8.com
 *.m818.com
@@ -66354,6 +66090,7 @@
 *.mankebao.com
 *.mankewenxue.cc
 *.manlaxy.com
+*.manlaxy.net
 *.manlaxycloud.com
 *.manli.ltd
 *.manlinggame.com
@@ -66378,7 +66115,6 @@
 *.manpowergrc.com
 *.manrong.win
 *.manshaoco.com
-*.manshijian.com
 *.mantachina.com
 *.mantangc.com
 *.mantewei.com
@@ -66432,7 +66168,6 @@
 *.maomao365.com
 *.maomaoche.com
 *.maomaoxue.com
-*.maomijiaoyi.com
 *.maomilingyang.com
 *.maomob.com
 *.maomp.com
@@ -66533,7 +66268,6 @@
 *.marstor.com
 *.marstv.com
 *.marsvis.com
-*.martech365.com
 *.martin8023.com
 *.martincl2.me
 *.marto.cc
@@ -66583,6 +66317,7 @@
 *.mastergo.com
 *.masterkongchef.com
 *.masterlab.vip
+*.masternetchina.net
 *.masterofmalteu.shop
 *.masterofsoccer.com
 *.mastersay.com
@@ -66813,7 +66548,6 @@
 *.mcfun.tv
 *.mcfxw.com
 *.mcgsjt.com
-*.mchanmai.com
 *.mchat.com
 *.mchifi.com
 *.mchim.net
@@ -67637,7 +67371,6 @@
 *.mhtyd.com
 *.mhtzjt.com
 *.mhv2.net
-*.mhw315.com
 *.mhwck.com
 *.mhwh168.com
 *.mhwmm.com
@@ -67849,7 +67582,6 @@
 *.midust.com
 *.midway.run
 *.mieco.net
-*.miecod.com
 *.mieevents.com
 *.miemie.la
 *.miercn.com
@@ -68020,7 +67752,6 @@
 *.minegoods.com
 *.minei.com
 *.mineplugin.org
-*.mineraltown.net
 *.minerfun.com
 *.minerhome.com
 *.minesage.com
@@ -68162,7 +67893,6 @@
 *.minirizhi.com
 *.minisforum.com
 *.minishops.co
-*.miniso-au.com
 *.miniso.com
 *.minisoyo.com
 *.ministudy.com
@@ -68559,7 +68289,6 @@
 *.mnjj.group
 *.mnkan.com
 *.mnpc.net
-*.mnwan.com
 *.mnwww.com
 *.mnxhj.com
 *.mo-co.com
@@ -68824,7 +68553,6 @@
 *.molt.win
 *.molwater.com
 *.molygoo.com
-*.mom001.com
 *.moma-hz.com
 *.mombuybuy.com
 *.moment.fun
@@ -68888,7 +68616,6 @@
 *.moonbasa.com
 *.moonbio.com
 *.moonbitlang.com
-*.moonbt.com
 *.mooncell.wiki
 *.moonfly.net
 *.moongood.com
@@ -68916,7 +68643,6 @@
 *.mooyy.com
 *.mop.com
 *.mopaas.com
-*.mopair-erm.net
 *.mopcn.com
 *.mopei8.com
 *.moper.me
@@ -69359,7 +69085,6 @@
 *.muge.info
 *.mugeda.com
 *.muguang.me
-*.muguayuan.com
 *.muhan.co
 *.muhan.ltd
 *.muhou.net
@@ -69723,7 +69448,6 @@
 *.mygame66.com
 *.mygame82.com
 *.mygame88.com
-*.mygisdel.com
 *.mygjp.com
 *.mygobatv.com
 *.mygolbs.com
@@ -69919,7 +69643,6 @@
 *.mytt.com
 *.mytv365.com
 *.mytvgame.com
-*.mytxly.com
 *.myuall.com
 *.myubbs.com
 *.myuclass.com
@@ -70174,7 +69897,6 @@
 *.nanjingboiler.com
 *.nanjingbtkt.com
 *.nanjingbyby.com
-*.nanjingchenxi.com
 *.nanjingelectric.com
 *.nanjinggaopeng.com
 *.nanjinghuihe.com
@@ -70214,7 +69936,6 @@
 *.nanosic.com
 *.nanpowan.com
 *.nanpu.vip
-*.nanpua.com
 *.nanputuo.com
 *.nanqi.org
 *.nanqiangbusiness.com
@@ -70377,7 +70098,6 @@
 *.nbfox.com
 *.nbgdjt.com
 *.nbginnovations.com
-*.nbgj.net
 *.nbgjwl.com
 *.nbgodo.com
 *.nbgong.com
@@ -70744,7 +70464,6 @@
 *.netpoint25.com
 *.netposa.com
 *.netqd.com
-*.netrf.wang
 *.netsmell.com
 *.netspreading.com
 *.netstatic.net
@@ -70766,6 +70485,7 @@
 *.neunn.com
 *.neupaas.com
 *.neuqsoft.com
+*.neuronlabs.art
 *.neuroxiv.com
 *.neuroxiv.net
 *.neusemi.com
@@ -70906,7 +70626,6 @@
 *.newszjk.com
 *.newtab123.com
 *.newtalentaward.com
-*.newtao.work
 *.newtimeai.com
 *.newtimevalve.com
 *.newtonghua.com
@@ -70923,7 +70642,6 @@
 *.newwatchesale.com
 *.newxing.com
 *.newxitong.com
-*.newxry.com
 *.newxue.com
 *.newyanshamall.com
 *.newyifagroup.com
@@ -70993,7 +70711,6 @@
 *.nfvalve.com
 *.nfwl168.com
 *.nfxsy.com
-*.nfyeya.com
 *.nfyun.vip
 *.nfyy.com
 *.nfyyzcfy.com
@@ -71797,7 +71514,6 @@
 *.njyzdl.com
 *.njyzgz.com
 *.njyzmj.com
-*.njzb.net
 *.njzb.org
 *.njzdhotel.com
 *.njzdyq.com
@@ -71832,6 +71548,7 @@
 *.nkks378.org
 *.nkscdn.com
 *.nkshw.com
+*.nkwpreb.com
 *.nkygty.com
 *.nkzy.com
 *.nlark.com
@@ -71848,7 +71565,6 @@
 *.nlscan.com
 *.nlteck.com
 *.nlttms.com
-*.nlww168.com
 *.nlxn.com
 *.nlypx.com
 *.nlyzzzxrmyy.com
@@ -72252,7 +71968,6 @@
 *.nobel120.com
 *.noblefashion.hk
 *.nobleliftgroup.com
-*.noblove.com
 *.nocang.com
 *.nocare.com
 *.noclyt.com
@@ -72491,6 +72206,7 @@
 *.ns-china.net
 *.ns1.hk
 *.ns1011.com
+*.ns1666.com
 *.ns168.net
 *.ns222s.com
 *.ns365.net
@@ -72929,7 +72645,6 @@
 *.oayqwkhg.com
 *.oaz.cc
 *.obagame.com
-*.obai.cc
 *.obaku.com
 *.obeesmedia.com
 *.obeishi.com
@@ -73016,7 +72731,6 @@
 *.octwuhan.com
 *.oculist.net
 *.ocwms.com
-*.ocypo.org
 *.odaily.news
 *.odalong.com
 *.odao.com
@@ -73098,7 +72812,6 @@
 *.oh4k.com
 *.ohausyt.com
 *.ohedu.net
-*.ohgnylbp.shop
 *.ohipic.com
 *.ohltjt.com
 *.ohltk.com
@@ -73659,7 +73372,6 @@
 *.orbiepharm.com
 *.orbitmes.com
 *.orcadt.com
-*.orchid-lanhua.com
 *.orchome.com
 *.orcode.com
 *.ordchaos.com
@@ -73783,7 +73495,6 @@
 *.ospod.com
 *.osportsmedia.com
 *.ospp.com
-*.ospuq.org
 *.osredm.com
 *.osrelease.download.prss.microsoft.com
 *.oss-cn-beijing-aliyuncs.com
@@ -74083,7 +73794,6 @@
 *.p2peye.com
 *.p2peye.net
 *.p2psearchers.com
-*.p2ptouhang.com
 *.p3-china.com
 *.p4pp.com
 *.p555.cc
@@ -74501,7 +74211,6 @@
 *.paympay.com
 *.paynews.net
 *.paypaytech.com
-*.paytollvfd.world
 *.pb89.com
 *.pbaohza.com
 *.pbc-dcep.com
@@ -74567,7 +74276,6 @@
 *.pccppc.com
 *.pcdan.net
 *.pcdn100.com
-*.pcdnhome.com
 *.pcdog.com
 *.pcdrv.com
 *.pcdtg.com
@@ -74816,6 +74524,7 @@
 *.pepresource.com
 *.pepsimeipai.com
 *.peptide-china.com
+*.perfcode.com
 *.perfect-input.com
 *.perfect99.com
 *.perfectdiary.com
@@ -74912,7 +74621,6 @@
 *.pgzs.com
 *.pgzx.net
 *.ph-fc.com
-*.ph365.bond
 *.ph66.com
 *.phaenothera.com
 *.phaetonsemi.com
@@ -75100,7 +74808,6 @@
 *.picoxr.com
 *.picp.io
 *.picp.net
-*.picsays.com
 *.pictureknow.com
 *.picup.shop
 *.picxiaobai.com
@@ -75119,7 +74826,6 @@
 *.piflogistics.com
 *.pifukezaixian.com
 *.pig4cloud.com
-*.pig66.com
 *.pigai.org
 *.pigcms.com
 *.pighaihe.com
@@ -75196,14 +74902,12 @@
 *.pingevip.com
 *.pingfangx.com
 *.pingfanli.com
-*.pingfenbang.com
 *.pinggao.com
 *.pinggaogroup.com
 *.pinggu.com
 *.pinggu.org
 *.pingguobaoxiu.com
 *.pingguodj.com
-*.pingguoid.com
 *.pingguolv.com
 *.pinghe.com
 *.pinghu.tech
@@ -75439,13 +75143,11 @@
 *.platinum-traveller.com
 *.platinumchina.com
 *.play-analytics.com
-*.play-cdn14.com
 *.play-cdn19.com
 *.play-cdn7.com
 *.play.craft.moe
 *.play68.com
 *.play700.com
-*.play910.com
 *.play920.com
 *.playcase.com
 *.playchd.com
@@ -75572,7 +75274,6 @@
 *.po7ryumvkx34.com
 *.pobaby.net
 *.pobasoft.com
-*.pochanguanliyanjiu.com
 *.pochezu.com
 *.pocketcloud.vip
 *.pocketdigi.com
@@ -75977,7 +75678,6 @@
 *.print86.com
 *.printerwhy.net
 *.printhome.com
-*.printhr.com
 *.printidea.art
 *.printlake.com
 *.privateapi.xyz
@@ -76294,7 +75994,6 @@
 *.puusa.net
 *.puwenlong.com
 *.puworld.com
-*.puwww.com
 *.puxiang.com
 *.puxindesign.com
 *.puxun.co
@@ -76392,7 +76091,6 @@
 *.pymh.com
 *.pyneo.com
 *.pyou.com
-*.pysdsysc.com
 *.pyshszh.com
 *.pystar.com
 *.pyt2021.com
@@ -76734,7 +76432,6 @@
 *.qdsmjxh.com
 *.qdspr.com
 *.qdsrmyy.com
-*.qdsxtkj.com
 *.qdsysj.com
 *.qdsyxh.com
 *.qdtaide.com
@@ -76822,7 +76519,6 @@
 *.qg108.com
 *.qgb2b.com
 *.qgbnzb.com
-*.qgbzyzl.com
 *.qgcyjq.org
 *.qgenius.com
 *.qgfund.com
@@ -77485,7 +77181,6 @@
 *.qinglm.com
 *.qinglue.com
 *.qinglue.net
-*.qinglvpin.com
 *.qingly.ink
 *.qingmail.com
 *.qingmayun.com
@@ -77708,7 +77403,6 @@
 *.qiupuwang.com
 *.qiuqiusd.com
 *.qiuquan.cc
-*.qiushi.com
 *.qiushibaike.com
 *.qiushile.com
 *.qiushu.cc
@@ -77767,7 +77461,6 @@
 *.qiyegongqiu.net
 *.qiyeku.com
 *.qiyelipin.com
-*.qiyenet.net
 *.qiyes.com
 *.qiyeshangpu.com
 *.qiyeshangpu.net
@@ -77983,7 +77676,6 @@
 *.qncd.com
 *.qncha.com
 *.qnchrome.com
-*.qndb.net
 *.qnfcdn.com
 *.qnfyg.com
 *.qngas.com
@@ -78036,7 +77728,6 @@
 *.qpgame.com
 *.qpgczx.com
 *.qphospital.com
-*.qpjjku.com
 *.qpjylm.com
 *.qpkaifa.com
 *.qplus.com
@@ -78307,7 +77998,6 @@
 *.qtaeixd.com
 *.qtav.org
 *.qtbig.com
-*.qtbtp.com
 *.qtcb.net
 *.qtccolor.com
 *.qtck.net
@@ -78973,7 +78663,6 @@
 *.qxshucai.com
 *.qxswk.com
 *.qxteacher.com
-*.qxtongcheng.com
 *.qxtour.com
 *.qxtxt.com
 *.qxueji4167.vip
@@ -79095,7 +78784,6 @@
 *.qzbgzz.com
 *.qzbhgyl.com
 *.qzbhzy.com
-*.qzbwjx.com
 *.qzccbank.com
 *.qzchuxing.com
 *.qzcia.com
@@ -79236,7 +78924,6 @@
 *.r89gr9gr.ink
 *.r8hr7.net
 *.r9922.com
-*.r9t1.com
 *.ra022.com
 *.ra2ol.com
 *.rabbit1117.com
@@ -79294,6 +78981,7 @@
 *.raink.org
 *.rainlain.com
 *.rainng.com
+*.rains3.com
 *.rainso.com
 *.rainwe.com
 *.rainyun.com
@@ -79462,7 +79150,6 @@
 *.rcdang.com
 *.rcesssc.com
 *.rcfans.com
-*.rcgus.com
 *.rchsrc.com
 *.rchudong.com
 *.rcjypx.com
@@ -79626,7 +79313,6 @@
 *.redhtc.com
 *.redianduanzi.com
 *.redianmao.com
-*.redianyuansu.com
 *.redianyule.com
 *.redianzixun.com
 *.rediao.com
@@ -79665,6 +79351,7 @@
 *.reduxingxuan.com
 *.redyue.com
 *.redyue.org
+*.reecam.net
 *.reed-sinopharm.com
 *.reedoun.com
 *.reeidc.com
@@ -80379,7 +80066,6 @@
 *.rosecmsc.com
 *.rosedata.com
 *.rosefinchfund.com
-*.rosepie.com
 *.rosesandgold.fun
 *.rosewin.com
 *.rosin-china.com
@@ -80508,7 +80194,6 @@
 *.rsl.cc
 *.rslg-china.com
 *.rsm.download.prss.microsoft.com
-*.rsnmxd.com
 *.rsnschina.com
 *.rsplcdcs.com
 *.rspwj.com
@@ -80555,7 +80240,6 @@
 *.rtf1688.com
 *.rtfcode.com
 *.rtfcpa.com
-*.rtftq.org
 *.rtfund.com
 *.rtfzfl.com
 *.rthpc.com
@@ -80737,7 +80421,6 @@
 *.rulei.vip
 *.rulejianzhan.com
 *.rulianshi.la
-*.rumeibox.com
 *.rumodesign.com
 *.rumosky.com
 *.rumt-sg.com
@@ -80812,7 +80495,6 @@
 *.ruoxia.com
 *.ruoyer.com
 *.ruoyi.vip
-*.ruozedata.com
 *.ruozhu.shop
 *.ruqimobility.com
 *.ruralwomengd.org
@@ -81026,7 +80708,6 @@
 *.saaswaf.com
 *.saayaa.com
 *.saberqq.com
-*.sabxg.com
 *.sac-china.com
 *.sacdr.net
 *.sachenpharm.com
@@ -81446,7 +81127,6 @@
 *.sbjxyq.com
 *.sbk-h5.com
 *.sbkh5.com
-*.sbkk8.com
 *.sbl-ruseldau.com
 *.sblseceorf.com
 *.sblsechuorb3.net
@@ -82017,7 +81697,6 @@
 *.sdbgk.com
 *.sdbjm.com
 *.sdbkxh.com
-*.sdbochen.net
 *.sdbqfw.com
 *.sdbx.org
 *.sdbys.com
@@ -82328,7 +82007,6 @@
 *.sdsenrong.com
 *.sdseshealth.com
 *.sdsfjy.com
-*.sdsgwy.com
 *.sdshangya.com
 *.sdshgk.com
 *.sdshihua.com
@@ -82500,7 +82178,6 @@
 *.seaning.com
 *.seanya.com
 *.seanyxie.com
-*.seaps.org
 *.seapsoft.com
 *.search616.com
 *.searchpstatp.com
@@ -82563,7 +82240,6 @@
 *.secsilo.com
 *.sectigochina.com
 *.secu100.net
-*.secure-ch-ase03.online
 *.secure-chasle026.ink
 *.secure-chasle029.wiki
 *.secure-chasle039.wiki
@@ -82691,7 +82367,6 @@
 *.semiwebs.com
 *.sempk.com
 *.semptian.com
-*.semsay.com
 *.semw-sh.com
 *.senaocargo.com
 *.senbeijia.com
@@ -82774,7 +82449,6 @@
 *.seo371.com
 *.seo628.com
 *.seobti.com
-*.seocxw.com
 *.seodaniel.com
 *.seofangfa.com
 *.seoipo.com
@@ -82916,7 +82590,6 @@
 *.sfsdds.com
 *.sfshuiwu.com
 *.sfsigroup.com
-*.sfsw2000.com
 *.sfsyenergy.com
 *.sftj.net
 *.sftnow.com
@@ -83339,7 +83012,6 @@
 *.shangli-tea.com
 *.shanglin.net
 *.shanglischool.com
-*.shanglp.com
 *.shangluo.co
 *.shanglushan.com
 *.shanglv51.com
@@ -83861,7 +83533,6 @@
 *.shenqizhilv.com
 *.shenquol.com
 *.shenrongda.com
-*.shenrongjidian.com
 *.shenruan.org
 *.shenshang.org
 *.shenshi777.com
@@ -84302,7 +83973,6 @@
 *.shiyan.com
 *.shiyanbar.com
 *.shiyanbar.net
-*.shiyangdr.com
 *.shiyanhospital.com
 *.shiyanjia.com
 *.shiyanlou.com
@@ -84316,7 +83986,6 @@
 *.shiyibao.com
 *.shiyicdn.com
 *.shiyide.com
-*.shiyifacai.com
 *.shiyingbao.com
 *.shiyiyj.com
 *.shiyiyx.com
@@ -84340,7 +84009,6 @@
 *.shizhuang-inc.com
 *.shizhuolin.com
 *.shizhuonet.com
-*.shj6789.com
 *.shjakfyy.com
 *.shjayson.com
 *.shjb600838.com
@@ -85754,7 +85422,6 @@
 *.sipo-sc.com
 *.siposchina.com
 *.sipprh.com
-*.sipsenegal.org
 *.sipujy.com
 *.sipurd.com
 *.siqiangame.com
@@ -85837,7 +85504,6 @@
 *.siyuanyl.com
 *.siyuhome.net
 *.siyunyatwo.com
-*.siyuweb.com
 *.sizebid.com
 *.sizeofvoid.net
 *.sizhicn.com
@@ -85912,7 +85578,6 @@
 *.sjqmtlm.com
 *.sjrwzz.com
 *.sjsbk.com
-*.sjsei.com
 *.sjsheji.com
 *.sjsrm.com
 *.sjsydq.com
@@ -85930,7 +85595,6 @@
 *.sjwec-tencentclb.net
 *.sjwec-tencentclb.work
 *.sjwj.com
-*.sjwl.xyz
 *.sjwt.net
 *.sjwtlm.com
 *.sjwx.info
@@ -86060,7 +85724,6 @@
 *.skyai.tech
 *.skyallhere.com
 *.skyao.io
-*.skyapp1.tv
 *.skyart.site
 *.skybility.com
 *.skybluek.com
@@ -86080,7 +85743,6 @@
 *.skyecs.com
 *.skyee360.com
 *.skyfeather.online
-*.skyfollowsnow.pro
 *.skyfont.com
 *.skyfox.org
 *.skyhand.vip
@@ -87243,7 +86905,6 @@
 *.sqfgc.com
 *.sqgg.cc
 *.sqggzy.com
-*.sqgwh.com
 *.sqhec.com
 *.sqhx.com
 *.sqis.com
@@ -87359,10 +87020,8 @@
 *.ssbjsy.com
 *.ssbx.me
 *.ssby.cc
-*.ssby66.com
 *.ssc-mcc.com
 *.sscanmou.com
-*.sscefsol.com
 *.sscejia.com
 *.sscha.com
 *.sschengtou.com
@@ -88390,7 +88049,6 @@
 *.suxiege.com
 *.suxing.me
 *.suxuejiaoyu.com
-*.suxx0.com
 *.suyangroup.com
 *.suyuantuliao.com
 *.suyuening.com
@@ -88623,7 +88281,6 @@
 *.sxhimalayanqd.com
 *.sxhiway.com
 *.sxhjrc.com
-*.sxhkstv.com
 *.sxhkxy.com
 *.sxhlcc.com
 *.sxhlfjt.com
@@ -88775,9 +88432,7 @@
 *.sxygsj.com
 *.sxyj.net
 *.sxyqgs.asia
-*.sxyxqk.com
 *.sxyyc.net
-*.sxyyzcj.com
 *.sxzhaobiao.com
 *.sxzhongfei.com
 *.sxzhyy.com
@@ -88885,7 +88540,6 @@
 *.sylincom.com
 *.sylixos.com
 *.sylm2022.com
-*.sylmg.com
 *.sylnyx.com
 *.symama.com
 *.symarathon.com
@@ -89029,7 +88683,6 @@
 *.sz-changfeng.com
 *.sz-changhong.com
 *.sz-coin.com
-*.sz-czzc.com
 *.sz-dfl.com
 *.sz-dns.net
 *.sz-ebest.com
@@ -89295,7 +88948,6 @@
 *.szgky.com
 *.szgla.com
 *.szglby.com
-*.szglsf.com
 *.szgraphene.com
 *.szgreenhulk.com
 *.szgrjt.com
@@ -89392,7 +89044,6 @@
 *.szjhxjt.com
 *.szjianan.com
 *.szjiansheng.net
-*.szjianuo.com
 *.szjiazhao.com
 *.szjiexikeji.com
 *.szjinhejs.com
@@ -89751,7 +89402,6 @@
 *.szwldq.com
 *.szword.com
 *.szwsm.com
-*.szwstui.com
 *.szwtsd.com
 *.szwudao.com
 *.szwuyukeji.com
@@ -89844,7 +89494,6 @@
 *.szyxue.com
 *.szyxwdz.com
 *.szyxwkj.com
-*.szyy0373.com
 *.szyyda.com
 *.szyyt.com
 *.szyyx.com
@@ -89918,7 +89567,6 @@
 *.t3yanzheng.com
 *.t47888.com
 *.t49cdn.com
-*.t4x3.com
 *.t4z5p5s9k4q3m4h4m3.org
 *.t5.work
 *.t50888.com
@@ -90263,7 +89911,6 @@
 *.tao3.cc
 *.tao33.com
 *.tao37.com
-*.tao3c.com
 *.tao66.com
 *.tao800.com
 *.tao8090.com
@@ -90284,7 +89931,6 @@
 *.taobc.com
 *.taobeihai.com
 *.taobeike.com
-*.taobiaozu.com
 *.taoc.cc
 *.taocange.com
 *.taocdn.com
@@ -90385,7 +90031,6 @@
 *.taosj.com
 *.taotao.com
 *.taotaocar.com
-*.taotaogeren.xyz
 *.taotaoit.com
 *.taotaosports.com
 *.taoth.com
@@ -90447,7 +90092,6 @@
 *.tarotchina.net
 *.tarsier-infra.com
 *.tarsocial.com
-*.tartscenter.com
 *.tasaiwang.com
 *.taschb.com
 *.tashine.com
@@ -90605,7 +90249,6 @@
 *.tclking.com
 *.tclkqn.com
 *.tclogx.com
-*.tcloud19.com
 *.tcloudbase.com
 *.tcloudbase.net
 *.tcloudbaseapi.com
@@ -90794,7 +90437,6 @@
 *.teach365.com
 *.teachblog.net
 *.teachclinic.com
-*.teachcn.net
 *.teachercn.com
 *.teachers211.com
 *.teachertc.com
@@ -90817,7 +90459,6 @@
 *.tebiao.net
 *.tebie6.com
 *.tebiefuza.cloud
-*.tebiezan.com
 *.tebiezhuan.com
 *.teboncapital.com
 *.tec73.com
@@ -91255,7 +90896,6 @@
 *.tenkent.com
 *.tenlonstudio.com
 *.tenmh.com
-*.tennny.com
 *.tennoo.com
 *.tenorforman.com
 *.tenorshare.com
@@ -91521,7 +91161,6 @@
 *.thenburn.com
 *.thenew123.com
 *.thenewhotel.com
-*.thenewstreams.com
 *.thenextravelmarket.com
 *.theoborn.com
 *.theoreticalw.com
@@ -91881,7 +91520,6 @@
 *.tianya66.com
 *.tianyabook.com
 *.tianyaclub.com
-*.tianyaluedu.com
 *.tianyancha.com
 *.tianyancha.net
 *.tianyangqz.com
@@ -92192,7 +91830,6 @@
 *.tiwb.com
 *.tiwu.net
 *.tixa.com
-*.tixaapp.com
 *.tixue.net
 *.tiyamat.com
 *.tiye.me
@@ -92331,7 +91968,6 @@
 *.tjxdzhonda.com
 *.tjxinyu.com
 *.tjxiqi.com
-*.tjxunlei888.com
 *.tjxxcl.com
 *.tjxz.cc
 *.tjydyt.com
@@ -93136,7 +92772,6 @@
 *.tpfangchan.com
 *.tphdled.com
 *.tpimg.xyz
-*.tpjhr.com
 *.tpjwww.com
 *.tpkey.com
 *.tplcd100.com
@@ -93332,7 +92967,6 @@
 *.tripurx.com
 *.tripvivid.com
 *.tripwirechina.com
-*.triring.com
 *.trisfal.com
 *.tristarinc.com
 *.triton-games.com
@@ -93516,7 +93150,6 @@
 *.tsj-tsy.com
 *.tsjtsy.com
 *.tsk-fixture.com
-*.tskscn.com
 *.tslib.net
 *.tsljzs.com
 *.tslongtai.com
@@ -93532,7 +93165,6 @@
 *.tsn-tencentclb.com
 *.tsn-tencentclb.net
 *.tsn-tencentclb.work
-*.tsorder.com
 *.tsp189.com
 *.tsparkling.com
 *.tspsy.com
@@ -93570,7 +93202,6 @@
 *.tszhjk.com
 *.tszlsgs.com
 *.tszxhosp.com
-*.tt-app.com
 *.tt-ly.com
 *.tt286.com
 *.tt65org.com
@@ -93768,7 +93399,6 @@
 *.tuguaishou.com
 *.tuguan.net
 *.tuguiyao-gd.com
-*.tuhaiba.com
 *.tuhaogroup.com
 *.tuhaokuai.com
 *.tuhu.com
@@ -93882,7 +93512,6 @@
 *.tuniuops.net
 *.tunynet.com
 *.tuo-pan.com
-*.tuoaa.com
 *.tuobeng.net
 *.tuocad.com
 *.tuodan.tech
@@ -94018,7 +93647,6 @@
 *.tuziip.com
 *.tv.sohu
 *.tv002.com
-*.tv121.com
 *.tv189.com
 *.tv2-zuqiu.com
 *.tv20806.com
@@ -94174,7 +93802,6 @@
 *.txstatic.com
 *.txt101.com
 *.txt321.com
-*.txt81.com
 *.txtagsceru.cc
 *.txtagscerw.cc
 *.txtbbs.com
@@ -94217,7 +93844,6 @@
 *.ty-xxl.com
 *.ty.ink
 *.ty1970.com
-*.ty2y.com
 *.ty360.com
 *.ty3w.net
 *.ty8621.com
@@ -94282,7 +93908,6 @@
 *.tyrbl.com
 *.tyrbw.com
 *.tyread.com
-*.tysdmh.com
 *.tysih.com
 *.tysj365.com
 *.tyst.cc
@@ -94352,7 +93977,6 @@
 *.tzjyjt.com
 *.tzjz123.com
 *.tzjzsw.com
-*.tzkameng.com
 *.tzkciz.com
 *.tzlib.net
 *.tzlmt.com
@@ -94557,7 +94181,6 @@
 *.ucloudstack.com
 *.ucloudstack.net
 *.ucloudstor.com
-*.ucly.net
 *.ucmmine.com
 *.ucnaming.com
 *.ucnaming.info
@@ -94873,7 +94496,6 @@
 *.unachina.org
 *.unaming.info
 *.unbank.info
-*.uncbd.com
 *.unccr.com
 *.uncfa.org
 *.uncitys.com
@@ -95202,7 +94824,6 @@
 *.us0.me
 *.usa-gam.com
 *.usa-idc.com
-*.usaapcups.com
 *.usaas.net
 *.usaedu.net
 *.usaeu.com
@@ -95323,7 +94944,6 @@
 *.uu661.com
 *.uu89.com
 *.uu898.com
-*.uuaoz.com
 *.uucall.com
 *.uucc.cc
 *.uucin.com
@@ -95438,7 +95058,6 @@
 *.uyhjnm.com
 *.uyiban.com
 *.uyiqggpa.com
-*.uymfybcf.shop
 *.uyou.com
 *.uyouii.cool
 *.uyouqu.com
@@ -95501,6 +95120,7 @@
 *.v50307shvkaa.art
 *.v51124-3.qpon
 *.v51124-3a.qpon
+*.v51124-4.qpon
 *.v51124-5.qpon
 *.v51124.qpon
 *.v5cg.com
@@ -95643,7 +95263,6 @@
 *.vcdnga.com
 *.vcg.com
 *.vchangyi.com
-*.vchiy.com
 *.vcimg.com
 *.vcinchina.com
 *.vckbase.com
@@ -95762,6 +95381,7 @@
 *.verisilicon.com
 *.verisyno.com
 *.versa-ai.com
+*.versetech.space
 *.versolsolar.com
 *.versoventure.com
 *.vertciot.com
@@ -96181,7 +95801,6 @@
 *.vkoolhf.com
 *.vkoopp.com
 *.vkoq4kyzmj.com
-*.vkrqtir.xyz
 *.vksir.zone
 *.vksoft.com
 *.vkua.com
@@ -96310,7 +95929,6 @@
 *.volcalb.com
 *.volcanicengine.com
 *.volcano-force.com
-*.volcanospring.com
 *.volcautovod.com
 *.volcbiz.com
 *.volcca.com
@@ -96466,6 +96084,7 @@
 *.vpsor.com
 *.vpsplayer.com
 *.vpspurchase.com
+*.vpsrb.com
 *.vpsss.net
 *.vpssw.com
 *.vpsvip.com
@@ -96613,7 +96232,6 @@
 *.vvipcdn.com
 *.vviptuangou.com
 *.vvjob.com
-*.vvlian.com
 *.vvmeiju.com
 *.vvo2o.com
 *.vvpncdn.com
@@ -96652,6 +96270,7 @@
 *.vyin.com
 *.vynior.com
 *.vyuan8.com
+*.vyymnahi.com
 *.vz.download.prss.microsoft.com
 *.vz41.com
 *.vzan.cc
@@ -96704,6 +96323,7 @@
 *.w3tool.com
 *.w3tt.com
 *.w3xue.com
+*.w4vwizxrvepq.com
 *.w5.com
 *.w61usi4a.org
 *.w6pdp.com
@@ -96737,7 +96357,6 @@
 *.wafatea.com
 *.wafcn.com
 *.wafunny.com
-*.wafzi.com
 *.wagen.cc
 *.wagonsclub.com
 *.waha.cc
@@ -97544,7 +97163,6 @@
 *.webarcx.com
 *.webcamx666.com
 *.webdissector.com
-*.webdns263.com
 *.webetter-ad.com
 *.webfalse.com
 *.webfont.com
@@ -97954,8 +97572,8 @@
 *.weiwangvip.com
 *.weiwanjia.com
 *.weiweixiao.net
-*.weiweiyi.com
 *.weiwenjia.com
+*.weiwo1.xyz
 *.weiwom.com
 *.weiwss.com
 *.weiwuhui.com
@@ -98012,7 +97630,6 @@
 *.weiyan.me
 *.weiyan000.com
 *.weiyangx.com
-*.weiyanjiang.com
 *.weiyapaper.com
 *.weiye-alu.com
 *.weiye.me
@@ -98136,7 +97753,6 @@
 *.wendangdaquan.com
 *.wendangmao.net
 *.wendangwang.com
-*.wendangxiazai.com
 *.wendax.com
 *.wendaxiaowu.com
 *.wendns.com
@@ -99169,7 +98785,6 @@
 *.wio2o.com
 *.wiot.host
 *.wipanda.com
-*.wipcc.org
 *.wireless-driver.com
 *.wireless-tag.com
 *.wirelesschina-summit.com
@@ -99299,7 +98914,6 @@
 *.wjnin.cc
 *.wjqcw.com
 *.wjqwy.com
-*.wjqyw.com
 *.wjrcb.com
 *.wjs.com
 *.wjshw.com
@@ -99389,7 +99003,6 @@
 *.wlmf.vip
 *.wlmq.com
 *.wlmqedu.com
-*.wlmqhytd.com
 *.wlmqrc.com
 *.wlmqrsks.com
 *.wlmqwb.com
@@ -99475,7 +99088,6 @@
 *.wmvideo.com
 *.wmviv.com
 *.wmwm.com
-*.wmxba.com
 *.wmxcjj.com
 *.wmxpro.com
 *.wmxue.com
@@ -99572,7 +99184,6 @@
 *.wobu2.com
 *.woc.space
 *.woc88.com
-*.wocaoseo.net
 *.wochacha.com
 *.wochaw.com
 *.woda.com
@@ -99581,7 +99192,6 @@
 *.wode.bid
 *.wode.im
 *.wodeabc.com
-*.wodecaipu.com
 *.wodecrowd.com
 *.wodecun.com
 *.wodedagong.com
@@ -100076,7 +99686,6 @@
 *.wsy400.com
 *.wsy7.com
 *.wsyhn.com
-*.wsysdg.com
 *.wsyuanlin.com
 *.wsyxmall.com
 *.wszwhg.net
@@ -100598,7 +100207,6 @@
 *.wxchildren.com
 *.wxchina.com
 *.wxchuguan.com
-*.wxchunleikeji.com
 *.wxcig.com
 *.wxcjfzjt.com
 *.wxcloudrun.com
@@ -100612,7 +100220,6 @@
 *.wxdfgc.com
 *.wxdhnt.com
 *.wxdianju.com
-*.wxdtsj.com
 *.wxdw.info
 *.wxeditor.com
 *.wxedu.net
@@ -100746,9 +100353,7 @@
 *.wxtrust.com
 *.wxtyjt.com
 *.wxtyyy.com
-*.wxtyzyyy.com
 *.wxurls.com
-*.wxuse.tech
 *.wxutil.com
 *.wxw120.com
 *.wxwerp.com
@@ -100958,7 +100563,6 @@
 *.wzsrmyy.com
 *.wzssx.net
 *.wzstsj.com
-*.wzsxj.net
 *.wzsz.net
 *.wzsz.org
 *.wztf121.com
@@ -101038,7 +100642,6 @@
 *.x64go.com
 *.x64pro.com
 *.x66597.com
-*.x69zw.com
 *.x6d.com
 *.x6tb.com
 *.x6x8.com
@@ -101359,7 +100962,6 @@
 *.xcvec.com
 *.xcvmbyte.com
 *.xcvvs.com
-*.xcwhjj.com
 *.xcx-x.com
 *.xcxd-inc.com
 *.xcxd1997.com
@@ -101367,7 +100969,6 @@
 *.xcxvs.com
 *.xcxwo.com
 *.xcxymw.com
-*.xcxzks.com
 *.xcxzww.com
 *.xcyg.net
 *.xczhmzb.com
@@ -101450,7 +101051,6 @@
 *.xdtev.com
 *.xdtos.com
 *.xduim.com
-*.xdundq.work
 *.xduoo.com
 *.xduoyu.com
 *.xduph.com
@@ -101768,10 +101368,8 @@
 *.xiakeol.com
 *.xialingying.cc
 *.xialv.com
-*.xiamag.com
 *.xiamai.net
 *.xiame.com
-*.xiamen888.com
 *.xiamenair.com
 *.xiamenbg.com
 *.xiamenfojiao.com
@@ -102012,7 +101610,6 @@
 *.xiaobeibike.com
 *.xiaobeigl.com
 *.xiaobeiyangji.com
-*.xiaobeizuqin.com
 *.xiaobianli8.com
 *.xiaobingxitong.com
 *.xiaobool.com
@@ -102149,7 +101746,6 @@
 *.xiaojing.work
 *.xiaojing360.com
 *.xiaojinzi.com
-*.xiaojiuwang.com
 *.xiaojl.com
 *.xiaojp.com
 *.xiaojuchefu.com
@@ -102285,7 +101881,6 @@
 *.xiaophy.com
 *.xiaopi.com
 *.xiaopinchuxing.com
-*.xiaopinw.com
 *.xiaopiu.com
 *.xiaoqiandao.com
 *.xiaoqiangge.com
@@ -102586,7 +102181,6 @@
 *.xihachina.com
 *.xihaiannews.com
 *.xihaianrc.com
-*.xihangzh.com
 *.xihawan8.com
 *.xihaxueche.com
 *.xihazsww.com
@@ -102758,7 +102352,6 @@
 *.xinfushe.com
 *.xinfuyouxi.com
 *.xinfuyun.net
-*.xing-su.com
 *.xing73.com
 *.xingames.com
 *.xingaochengtai.com
@@ -102789,7 +102382,6 @@
 *.xingfulaonian.com
 *.xingfulizhaofang.com
 *.xingfuu.com
-*.xinggan.net
 *.xingganggas.com
 *.xingguanggongkao.com
 *.xinghai365.com
@@ -103340,7 +102932,6 @@
 *.xiucai.com
 *.xiudodo.com
 *.xiudtech.com
-*.xiufa.com
 *.xiugei.com
 *.xiuhandingzhi.com
 *.xiuhangzhe.com
@@ -103782,7 +103373,6 @@
 *.xmitic.com
 *.xmj1688.com
 *.xmjchyxh.com
-*.xmjgjy.com
 *.xmjiaruan.com
 *.xmjim.com
 *.xmjj3d.com
@@ -104227,7 +103817,6 @@
 *.xq2024.com
 *.xq5.com
 *.xq668.com
-*.xqb24.com
 *.xqbase.com
 *.xqblog.com
 *.xqbssj.com
@@ -104235,7 +103824,6 @@
 *.xqckg.com
 *.xqdgroup.com
 *.xqdjkwz.com
-*.xqebp.org
 *.xqfunds.com
 *.xqhuyu.com
 *.xqhzw.org
@@ -104716,7 +104304,6 @@
 *.xueyuhuangjinyan.com
 *.xuezeshi.com
 *.xuezhangbb.com
-*.xuezhangya.com
 *.xuezhao.space
 *.xuezhiyou.com
 *.xuezhouyi.com
@@ -105903,7 +105490,6 @@
 *.yaypool.com
 *.yayu.net
 *.yayunjiqi.com
-*.yazhijian.com
 *.yazhougoufang.com
 *.yazuo.com
 *.yazx.net
@@ -106027,7 +105613,6 @@
 *.ycgslb.com
 *.ycgwl.com
 *.ycgzgame.com
-*.ychanfang.com
 *.ychcqmu.com
 *.ychdzxsh.com
 *.ychr.com
@@ -106120,7 +105705,6 @@
 *.ycxy.com
 *.ycxzlsyxgs.com
 *.ycyaw.com
-*.ycyck.com
 *.ycycut.com
 *.ycyhzx.com
 *.ycyjkj.com
@@ -107175,7 +106759,6 @@
 *.yinjiabio.com
 *.yinjispace.com
 *.yinka.co
-*.yinkunwi.work
 *.yinlimedia.com
 *.yinlingshuyuan.com
 *.yinlvaa.com
@@ -107516,7 +107099,6 @@
 *.yiyuansoft.com
 *.yiyuanyi.org
 *.yiyuanzhaopin.com
-*.yiyukj.com
 *.yiyum.com
 *.yiyun518.com
 *.yiyupack.com
@@ -107570,8 +107152,6 @@
 *.yjcp.com
 *.yjctrip.com
 *.yjdatasos.com
-*.yjdzm.com
-*.yjfs8.com
 *.yjfy.com
 *.yjgf.com
 *.yjgxcx.com
@@ -107600,7 +107180,6 @@
 *.yjpd.work
 *.yjpoo.com
 *.yjq.cc
-*.yjqegc.com
 *.yjr123.com
 *.yjrc.com
 *.yjrc.net
@@ -107761,6 +107340,7 @@
 *.ylmf888.com
 *.ylmfeng.com
 *.ylmfwin100.com
+*.ylmfwin8.com
 *.ylmm.com
 *.ylnetworks.com
 *.yloo.org
@@ -107829,7 +107409,6 @@
 *.ym-trans.com
 *.ym.link
 *.ym.run
-*.ym.today
 *.ym01.tech
 *.ym23.com
 *.ym3222333.com
@@ -107919,7 +107498,6 @@
 *.yneg-ev.com
 *.yneit.com
 *.ynet.com
-*.ynfabu.com
 *.ynfmly.com
 *.ynfww.com
 *.ynfwyy.com
@@ -107938,6 +107516,7 @@
 *.ynhzm.com
 *.yni84.com
 *.ynian.com
+*.ynicp.com
 *.ynjgy.com
 *.ynjiaoyu.net
 *.ynjkeji.com
@@ -107968,7 +107547,6 @@
 *.ynrc.net
 *.ynrcc.com
 *.ynrd.com
-*.ynscgg.com
 *.ynsdfz.net
 *.ynsfhq.com
 *.ynshangji.com
@@ -108347,10 +107925,12 @@
 *.youkongkan.com
 *.youkongwan.com
 *.youku.com
+*.youku.icu
 *.youkua.net
 *.youkuaiyun.com
 *.youkud.com
 *.youkupic.com
+*.youkuyouku.pro
 *.youlai.tech
 *.youlanw.com
 *.youle55.com
@@ -108441,7 +108021,6 @@
 *.yourbin.com
 *.yourcee.com
 *.yourchinagent.com
-*.yourcollect.net
 *.yourdream.cc
 *.yourjia.com
 *.yourongsj.com
@@ -108725,7 +108304,6 @@
 *.yqbimg.net
 *.yqchjd.com
 *.yqcn.com
-*.yqcsbqxj.com
 *.yqdtv.com
 *.yqelect.com
 *.yqfcw.net
@@ -108758,7 +108336,6 @@
 *.yqtg.cc
 *.yqtkgzbk.com
 *.yqtsgg.com
-*.yqw188.com
 *.yqwfpy.com
 *.yqwxw.cc
 *.yqwyx.xyz
@@ -108800,7 +108377,6 @@
 *.yrxsw.com
 *.yryz.com
 *.yrz.name
-*.yrzjw.com
 *.ys-fj.com
 *.ys-oss.xin
 *.ys.cc
@@ -108862,7 +108438,6 @@
 *.yslqo.com
 *.yslw.com
 *.yslyhr.com
-*.yslzc.com
 *.ysmiji.com
 *.ysmine.com
 *.ysmir.net
@@ -108950,17 +108525,14 @@
 *.ytghnb.com
 *.ytgos.com
 *.ythairui.com
-*.ytholidayplaza.com
 *.ythospital.com
 *.ythouse.com
-*.ythzg.com
 *.ytjcpj.com
 *.ytjiage.com
 *.ytjlc.net
 *.ytjob.com
 *.ytjpkj.com
 *.ytjqjt.com
-*.ytjunyue.com
 *.ytkiewvf.cc
 *.ytkj2010.com
 *.ytlh120.com
@@ -109104,7 +108676,6 @@
 *.yuansouti.biz
 *.yuansouti.com
 *.yuant.net
-*.yuantaobgjj.com
 *.yuanteng.net
 *.yuantest.com
 *.yuantiku.biz
@@ -109174,7 +108745,6 @@
 *.yudouyudou.com
 *.yuduxx.com
 *.yue-grh.com
-*.yue-tao.com
 *.yue365.com
 *.yue7.com
 *.yuebai.tv
@@ -109309,7 +108879,6 @@
 *.yueyuez.com
 *.yueyundns.com
 *.yueyuzhushou.com
-*.yuezeyi.com
 *.yuezhicn.com
 *.yuezhiding.com
 *.yuezhinan.com
@@ -109423,7 +108992,6 @@
 *.yumao.com
 *.yumaochuhai.com
 *.yumaoclub.com
-*.yumaoshu.com
 *.yumchina.com
 *.yumi.cc
 *.yumi.com
@@ -109627,7 +109195,6 @@
 *.yunlaiwu.com
 *.yunlangtuanjian.com
 *.yunlie.net
-*.yunlietou.com
 *.yunliketech.com
 *.yunlinghang.com
 *.yunlitz.com
@@ -109868,7 +109435,6 @@
 *.yusii.net
 *.yusinvestment.com
 *.yusiyy.com
-*.yusmnfgh.vip
 *.yusongec.com
 *.yusuan.com
 *.yusunjewelry.com
@@ -110013,7 +109579,6 @@
 *.yx-g.com
 *.yx-s.com
 *.yx-s.net
-*.yx0599.com
 *.yx090.com
 *.yx12345.com
 *.yx1312.com
@@ -110063,7 +109628,6 @@
 *.yxgcx.com
 *.yxgczx.com
 *.yxgf.net
-*.yxgfcj.com
 *.yxgxbike.com
 *.yxgxw.com
 *.yxgxz.com
@@ -110101,7 +109665,6 @@
 *.yxjuren.com
 *.yxjyy.net
 *.yxk120.com
-*.yxkfw.com
 *.yxkjlcd.com
 *.yxkxyghx.org
 *.yxlaba.com
@@ -110215,7 +109778,6 @@
 *.yyfunning.com
 *.yyg.com
 *.yyg120.com
-*.yyg7.com
 *.yygamedev.com
 *.yyge.com
 *.yygold.com
@@ -110403,7 +109965,6 @@
 *.yzja.com
 *.yzjb.com
 *.yzjdgs88.com
-*.yzjiaozhai.com
 *.yzjj120.com
 *.yzjjw.net
 *.yzjob.net
@@ -110462,7 +110023,6 @@
 *.yzshyzz.com
 *.yzsljz.com
 *.yzsrmyy.org
-*.yzsszw888.com
 *.yzstudio.net
 *.yzsz3.icu
 *.yzszsxh.com
@@ -110652,7 +110212,6 @@
 *.zaojuzi.com
 *.zaojv.com
 *.zaoowoo.com
-*.zaoqiangzhiheng.com
 *.zaowandushu.com
 *.zaowuyun.com
 *.zaoyang.org
@@ -110743,7 +110302,6 @@
 *.zbom.com
 *.zbopr.net
 *.zboqc.com
-*.zbpengxuan.com
 *.zbqlm.com
 *.zbqtwbzr.com
 *.zbra-inc.com
@@ -110810,7 +110368,6 @@
 *.zcedustudy.com
 *.zcfc.com
 *.zcfeed.com
-*.zcfirst.com
 *.zcfuhua.com
 *.zcfun.com
 *.zcfy.cc
@@ -111258,7 +110815,6 @@
 *.zgjhjy.com
 *.zgjianfang.com
 *.zgjiaoyan.com
-*.zgjiayang.com
 *.zgjiemeng.com
 *.zgjinglong.com
 *.zgjjzyjy.org
@@ -111571,6 +111127,7 @@
 *.zhangu365.com
 *.zhangwan.net
 *.zhangwei.li
+*.zhangwenbao.com
 *.zhangwenli.com
 *.zhangwojumian.com
 *.zhangxin.ltd
@@ -111789,7 +111346,6 @@
 *.zhefuhua.com
 *.zhegu8.xyz
 *.zheiyu.com
-*.zhejiangcheng.com
 *.zhejiangcircuit.com
 *.zhejiangfa.com
 *.zhejiangfc1998.com
@@ -112456,7 +112012,6 @@
 *.zhonggushipping.com
 *.zhonghaitech.com
 *.zhonghaojituan.com
-*.zhonghe58.com
 *.zhonghengyiyao.com
 *.zhonghhd.com
 *.zhonghongwang.com
@@ -112871,7 +112426,6 @@
 *.zhulang.net
 *.zhulanli.com
 *.zhulemei.com
-*.zhuli999.com
 *.zhulianwines.com
 *.zhulincat.com
 *.zhulinedu.com
@@ -113084,7 +112638,6 @@
 *.zidanduanxin.net
 *.zidg.com
 *.zidiankeji.com
-*.zidianqu.com
 *.zidianwang.com
 *.zidoo.tv
 *.zidootv.com
@@ -113874,7 +113427,6 @@
 *.zjyhqy.com
 *.zjyingcai.com
 *.zjyinzuo.com
-*.zjyiot.com
 *.zjyiyuan.com
 *.zjykrc.com
 *.zjylgroup.com
@@ -114062,7 +113614,6 @@
 *.zlsss.com
 *.zlsyun.com
 *.zlt365.com
-*.zltianhen.com
 *.zlttxl.com
 *.zluren.com
 *.zlview.com
@@ -114361,7 +113912,6 @@
 *.zparking-tech.com
 *.zpascal.net
 *.zpb365.com
-*.zpbtnpl.com
 *.zpc-cn.com
 *.zpcdi.com
 *.zpchaji.com
@@ -114534,7 +114084,6 @@
 *.zshsoft.com
 *.zshszy.com
 *.zshtys888.com
-*.zshuoshao.store
 *.zshypr.com
 *.zsia.org
 *.zsihuo.com
@@ -114685,7 +114234,6 @@
 *.ztqqt.com
 *.ztrczp.com
 *.ztrhmall.com
-*.ztrong.com
 *.ztsafe.com
 *.ztshjcb.com
 *.ztsiot.com
@@ -115057,7 +114605,6 @@
 *.zxpmq.com
 *.zxqfjt.com
 *.zxqg.com
-*.zxrcfw.com
 *.zxrtb.com
 *.zxsauto.com
 *.zxsctf.com
@@ -115187,7 +114734,6 @@
 *.zyku.net
 *.zyl.me
 *.zylianto.com
-*.zylseo.com
 *.zymc1.com
 *.zymkcdn.com
 *.zymkshop.com
@@ -115367,7 +114913,6 @@
 *.zzqfte.com
 *.zzqiyou.com
 *.zzqklm.com
-*.zzqrr.com
 *.zzqss.com
 *.zzquan9.com
 *.zzqudu.com
@@ -115430,7 +114975,6 @@
 *.zzxcy.com
 *.zzxdc.com
 *.zzxfjxzz.com
-*.zzxhns.com
 *.zzxic.com
 *.zzxmys.com
 *.zzxw.net
@@ -115443,7 +114987,6 @@
 *.zzyecc.com
 *.zzyedu.org
 *.zzyfjc.com
-*.zzygxh.com
 *.zzyiquan.com
 *.zzyjs.com
 *.zzykcd.com
